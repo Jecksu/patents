@@ -1,0 +1,72 @@
+Title: US7761265 claims method comparing solid models at DuckDuckGo
+
+URL Source: https://duckduckgo.com/html/?q=US7761265%20claims%20method%20comparing%20solid%20models
+
+Markdown Content:
+[](https://duckduckgo.com/html/?q=US7761265%20claims%20method%20comparing%20solid%20models)
+
+[](https://duckduckgo.com/html/ "DuckDuckGo")
+
+## [US7761265B2 - Method for comparing solid models - Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7761265B2%2Fen&rut=efcbab10707d2220be2aae7dd02b9a041b7baa404f60ce8d794949d6a9f5e816)
+
+[![Image 1](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7761265B2%2Fen&rut=efcbab10707d2220be2aae7dd02b9a041b7baa404f60ce8d794949d6a9f5e816)[patents.google.com/patent/US7761265B2/en](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7761265B2%2Fen&rut=efcbab10707d2220be2aae7dd02b9a041b7baa404f60ce8d794949d6a9f5e816)
+
+[A **method** for determining a similarity of a first **solid****model** to a second **solid****model** is disclosed. The **method** includes the steps of: selecting a set of features for representing the first **solid****model**; extracting features corresponding to the selected set of features from the first **solid****model**; constructing an undirected **model** dependency graph of the first **solid****model** based on the selected set ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7761265B2%2Fen&rut=efcbab10707d2220be2aae7dd02b9a041b7baa404f60ce8d794949d6a9f5e816)
+
+## [Method for Comparing Solid Models - Patent US7761265 - 2010](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cicirello.org%2Fpublications%2Fcicirello2010patent.html&rut=0271b95eee100d1ee39d0b305f7d15912812fcf1c21084dc6b485cf3d55cc773)
+
+[![Image 2](https://external-content.duckduckgo.com/ip3/www.cicirello.org.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cicirello.org%2Fpublications%2Fcicirello2010patent.html&rut=0271b95eee100d1ee39d0b305f7d15912812fcf1c21084dc6b485cf3d55cc773)[www.cicirello.org/publications/cicirello2010patent.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cicirello.org%2Fpublications%2Fcicirello2010patent.html&rut=0271b95eee100d1ee39d0b305f7d15912812fcf1c21084dc6b485cf3d55cc773)
+
+[A **method** for determining a similarity of a first **solid****model** to a second **solid****model** is disclosed. The **method** includes the steps of: selecting a set of features for representing the first **solid****model**; extracting features corresponding to the selected set of features from the first **solid****model**; constructing an undirected **model** dependency graph of the first **solid****model** based on the selected set ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cicirello.org%2Fpublications%2Fcicirello2010patent.html&rut=0271b95eee100d1ee39d0b305f7d15912812fcf1c21084dc6b485cf3d55cc773)
+
+## [Method for comparing solid models - Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030208285A1%2Fen&rut=d94796e364ab03cf94c064e548fc690372321cf3932b232d009377a748a00c0b)
+
+[![Image 3](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030208285A1%2Fen&rut=d94796e364ab03cf94c064e548fc690372321cf3932b232d009377a748a00c0b)[patents.google.com/patent/US20030208285A1/en](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030208285A1%2Fen&rut=d94796e364ab03cf94c064e548fc690372321cf3932b232d009377a748a00c0b)
+
+[A **method** for determining a similarity of a first **solid****model** to a second **solid****model** is disclosed. The **method** includes the steps of: selecting a set of features for representing the first **solid****model**; extracting features corresponding to the selected set of features from the first **solid****model**; constructing an undirected **model** dependency graph of the first **solid****model** based on the selected set ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS20030208285A1%2Fen&rut=d94796e364ab03cf94c064e548fc690372321cf3932b232d009377a748a00c0b)
+
+## [U.S. Patent for Method for comparing solid models Patent (Patent ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Fpatent%2F7761265&rut=33a05df1b1aa8d198dccb685b6a29df7e99b3c498fc49c65fd5fe5b1728448a2)
+
+[![Image 4](https://external-content.duckduckgo.com/ip3/patents.justia.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Fpatent%2F7761265&rut=33a05df1b1aa8d198dccb685b6a29df7e99b3c498fc49c65fd5fe5b1728448a2)[patents.justia.com/patent/7761265](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Fpatent%2F7761265&rut=33a05df1b1aa8d198dccb685b6a29df7e99b3c498fc49c65fd5fe5b1728448a2)
+
+[A **method** for determining a similarity of a first **solid****model** to a second **solid****model** is disclosed. The **method** includes the steps of: selecting a set of features for representing the first **solid****model**; extracting features corresponding to the selected set of features from the first **solid****model**; constructing an undirected **model** dependency graph of the first **solid****model** based on the selected set ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Fpatent%2F7761265&rut=33a05df1b1aa8d198dccb685b6a29df7e99b3c498fc49c65fd5fe5b1728448a2)
+
+## [Search for patents | USPTO](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+[![Image 5](https://external-content.duckduckgo.com/ip3/www.uspto.gov.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)[www.uspto.gov/patents/search](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+[Find existing patents, published patent applications, and other published patent documentation.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+## [Patent Public Search | USPTO](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fppubs.uspto.gov%2Fpubwebapp%2F&rut=2db7738d8e3787ccbfaab82b0fd99bed48d7e68016be89776995d321f0ee3cb0)
+
+[![Image 6](https://external-content.duckduckgo.com/ip3/ppubs.uspto.gov.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fppubs.uspto.gov%2Fpubwebapp%2F&rut=2db7738d8e3787ccbfaab82b0fd99bed48d7e68016be89776995d321f0ee3cb0)[ppubs.uspto.gov/pubwebapp/](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fppubs.uspto.gov%2Fpubwebapp%2F&rut=2db7738d8e3787ccbfaab82b0fd99bed48d7e68016be89776995d321f0ee3cb0)
+
+[Patent Public Search | USPTO Patent Public Search | USPTO - extended window](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fppubs.uspto.gov%2Fpubwebapp%2F&rut=2db7738d8e3787ccbfaab82b0fd99bed48d7e68016be89776995d321f0ee3cb0)
+
+## [Compare claims - ClaimMaster Help](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patentclaimmaster.com%2Fhelp%2FCompareclaims.html&rut=794ff45f9ebd4edd2030b97e0e491792195c577e43b0fc6b3814e837589d19f6)
+
+[![Image 7](https://external-content.duckduckgo.com/ip3/www.patentclaimmaster.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patentclaimmaster.com%2Fhelp%2FCompareclaims.html&rut=794ff45f9ebd4edd2030b97e0e491792195c577e43b0fc6b3814e837589d19f6)[www.patentclaimmaster.com/help/Compareclaims.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patentclaimmaster.com%2Fhelp%2FCompareclaims.html&rut=794ff45f9ebd4edd2030b97e0e491792195c577e43b0fc6b3814e837589d19f6)
+
+[To compare **claims** in the same document, provide **claim** numbers or **claim** ranges to compare to each other, separated by "vs" command. For example, "1 vs 5" will print **claim** 1 on the left, **claim** 5 on the right and highlight the mutual differences between the **claims**.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patentclaimmaster.com%2Fhelp%2FCompareclaims.html&rut=794ff45f9ebd4edd2030b97e0e491792195c577e43b0fc6b3814e837589d19f6)
+
+## [How to Create an Effective Patent Claim Chart - Lumenci](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flumenci.com%2Fblogs%2Fcreate%2Deffective%2Dpatent%2Dclaim%2Dchart%2F&rut=9a60910bba6821d11ce9ec6a185e3594f6f36c12a73d1fcd62175d8ae9cf9784)
+
+[![Image 8](https://external-content.duckduckgo.com/ip3/lumenci.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flumenci.com%2Fblogs%2Fcreate%2Deffective%2Dpatent%2Dclaim%2Dchart%2F&rut=9a60910bba6821d11ce9ec6a185e3594f6f36c12a73d1fcd62175d8ae9cf9784)[lumenci.com/blogs/create-effective-patent-claim-chart/](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flumenci.com%2Fblogs%2Fcreate%2Deffective%2Dpatent%2Dclaim%2Dchart%2F&rut=9a60910bba6821d11ce9ec6a185e3594f6f36c12a73d1fcd62175d8ae9cf9784) 2025-04-03T00:00:00.0000000
+
+[Consistency will make it easier to compare and contrast the patent **claims** with the product features, helping to build a stronger, more cohesive case. By following these strategies, your **claim** chart will be clearer, more persuasive, and easier to understand for everyone involved in the case.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Flumenci.com%2Fblogs%2Fcreate%2Deffective%2Dpatent%2Dclaim%2Dchart%2F&rut=9a60910bba6821d11ce9ec6a185e3594f6f36c12a73d1fcd62175d8ae9cf9784)
+
+## [PDF Topic 8 - Specific Types of Claims - WIPO](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wipo.int%2Fedocs%2Fmdocs%2Faspac%2Fen%2Fwipo_ip_cmb_17%2Fwipo_ip_cmb_17_8.pdf&rut=550394481396377c05ebfb4595261ee2be36b0b749bfc0d56ddfeea2aaf5e73f)
+
+[![Image 9](https://external-content.duckduckgo.com/ip3/www.wipo.int.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wipo.int%2Fedocs%2Fmdocs%2Faspac%2Fen%2Fwipo_ip_cmb_17%2Fwipo_ip_cmb_17_8.pdf&rut=550394481396377c05ebfb4595261ee2be36b0b749bfc0d56ddfeea2aaf5e73f)[www.wipo.int/edocs/mdocs/aspac/en/wipo_ip_cmb_17/wipo_ip_cmb_17_8.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wipo.int%2Fedocs%2Fmdocs%2Faspac%2Fen%2Fwipo_ip_cmb_17%2Fwipo_ip_cmb_17_8.pdf&rut=550394481396377c05ebfb4595261ee2be36b0b749bfc0d56ddfeea2aaf5e73f)
+
+[Use different words between product and **method****claims**, and don't mix Product **claims** are made up of physical elements and features.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.wipo.int%2Fedocs%2Fmdocs%2Faspac%2Fen%2Fwipo_ip_cmb_17%2Fwipo_ip_cmb_17_8.pdf&rut=550394481396377c05ebfb4595261ee2be36b0b749bfc0d56ddfeea2aaf5e73f)
+
+## [PDF Liability for Patent Infringement: System vs. Method Claims](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bakerbotts.com%2F~%2Fmedia%2FFiles%2FThought%2DLeadership%2FPublications%2F2025%2FMarch%2FLiability%2Dfor%2DPatent%2DInfringement%2DSystem%2Dvs%2DMethod%2DClaims.pdf&rut=233084b487cb3ec644e649e989773abe9c0b9b59b8b3fff18dec20777e5f3eac)
+
+[![Image 10](https://external-content.duckduckgo.com/ip3/www.bakerbotts.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bakerbotts.com%2F~%2Fmedia%2FFiles%2FThought%2DLeadership%2FPublications%2F2025%2FMarch%2FLiability%2Dfor%2DPatent%2DInfringement%2DSystem%2Dvs%2DMethod%2DClaims.pdf&rut=233084b487cb3ec644e649e989773abe9c0b9b59b8b3fff18dec20777e5f3eac)[www.bakerbotts.com/~/media/Files/Thought-Leadership/Publications/2025/March/Liability-for-Patent-Infringement-System-vs-Method-Claims.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bakerbotts.com%2F~%2Fmedia%2FFiles%2FThought%2DLeadership%2FPublications%2F2025%2FMarch%2FLiability%2Dfor%2DPatent%2DInfringement%2DSystem%2Dvs%2DMethod%2DClaims.pdf&rut=233084b487cb3ec644e649e989773abe9c0b9b59b8b3fff18dec20777e5f3eac) 2025-03-19T00:00:00.0000000
+
+[recent Federal Circuit decision in CloudofChange, LLC, v. NCR Corp. shed light on the differences between the element-based analy-sis for assessing vicarious liability for patent infringement in the case of **method****claims** on one hand, and the whole-system based analysis for system **claims** on the other. Plaintiff CloudofChange asserted a direct infringement theory against defendant NCR, based ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.bakerbotts.com%2F~%2Fmedia%2FFiles%2FThought%2DLeadership%2FPublications%2F2025%2FMarch%2FLiability%2Dfor%2DPatent%2DInfringement%2DSystem%2Dvs%2DMethod%2DClaims.pdf&rut=233084b487cb3ec644e649e989773abe9c0b9b59b8b3fff18dec20777e5f3eac)
+
+[Feedback](https://duckduckgo.com/feedback.html)
+
+![Image 11](https://duckduckgo.com/t/sl_h)

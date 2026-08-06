@@ -1,0 +1,712 @@
+Title: 泊松软件取得基于BREP的CAD模型对比方法、设备和存储介质专利
+
+URL Source: https://www.163.com/dy/article/KF9T6O7J0519QIKK.html
+
+Published Time: 2025-11-26T13:05:14+08:00
+
+Markdown Content:
+[![Image 8](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)](javascript:void(0))
+
+[网易首页](https://www.163.com/ "网易首页")
+
+[应用](https://www.163.com/#f=topnav)
+
+*   [_网易新闻_](https://m.163.com/newsapp/#f=topnav)
+*   [_网易公开课_](https://open.163.com/#f=topnav)
+*   [_网易红彩_](https://hongcai.163.com/?from=pcsy-button)
+*   [_网易严选_](https://u.163.com/aosoutbdbd8)
+*   [_邮箱大师_](https://mail.163.com/client/dl.html?from=mail46)
+*   [_网易云课堂_](https://study.163.com/client/download.htm?from=163app&utm_source=163.com&utm_medium=web_app&utm_campaign=business)
+
+[无障碍浏览](javascript:void(0))[进入关怀版](https://www.163.com/dy/article/KF9T6O7J0519QIKK_pdya11y.html)
+
+[_快速导航_](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)
+
+*   ### [新闻](https://news.163.com/)
+
+*   [国内](https://news.163.com/domestic)
+*   [国际](https://news.163.com/world)
+*   [王三三](https://news.163.com/special/wangsansanhome/)
+
+*   ### [体育](https://sports.163.com/)
+
+*   [NBA](https://sports.163.com/nba)
+*   [CBA](https://sports.163.com/cba)
+*   [综合](https://sports.163.com/allsports)
+*   [中超](https://sports.163.com/zc)
+*   [国际足球](https://sports.163.com/world)
+*   [英超](https://sports.163.com/yc)
+*   [西甲](https://sports.163.com/xj)
+*   [意甲](https://sports.163.com/yj)
+
+*   ### [娱乐](https://ent.163.com/)
+
+*   [明星](https://ent.163.com/star)
+*   [电影](https://ent.163.com/movie)
+*   [电视](https://ent.163.com/tv)
+*   [音乐](https://ent.163.com/music)
+*   [封面故事](https://ent.163.com/special/fmgs/)
+
+*   ### [财经](https://money.163.com/)
+
+*   [股票](https://money.163.com/stock)
+*   [原创](https://money.163.com/special/caijingyuanchuang/)
+*   [智库](https://money.163.com/special/wycjzk-pc/)
+
+*   ### [汽车](https://auto.163.com/)
+
+*   [购车](https://auto.163.com/buy)
+*   [车型库](http://product.auto.163.com/)
+
+*   ### [科技](https://tech.163.com/)
+
+*   [网易智能](https://tech.163.com/smart/)
+*   [原创](https://tech.163.com/special/S1554800475317/)
+*   [IT](https://tech.163.com/it)
+*   [互联网](https://tech.163.com/internet)
+*   [通信](https://tech.163.com/telecom/)
+
+*   ### [时尚](https://fashion.163.com/)
+
+*   [艺术](https://fashion.163.com/art)
+*   [旅游](https://travel.163.com/)
+
+*   ### [手机](https://mobile.163.com/)/[数码](https://digi.163.com/)
+
+*   [惊奇科技](https://mobile.163.com/special/jqkj_list/)
+*   [易评机](https://mobile.163.com/special/cpshi_list/)
+*   [家电](https://hea.163.com/)
+
+*   ### [房产](https://house.163.com/)/[家居](https://home.163.com/)
+
+*   [北京房产](https://bj.house.163.com/)
+*   [上海房产](https://sh.house.163.com/)
+*   [广州房产](https://gz.house.163.com/)
+*   [楼盘库](https://xf.house.163.com/)
+*   [设计师库](https://designer.home.163.com/search)
+*   [案例库](https://photo.home.163.com/)
+
+*   ### [教育](https://edu.163.com/)
+
+*   [留学](https://edu.163.com/liuxue)
+*   [高考](https://edu.163.com/gaokao)
+
+[查看网易地图](https://sitemap.163.com/)
+
+[登录](https://reg.163.com/)
+
+[注册免费邮箱](https://mail.163.com/register/index.htm?from=163navi&regPage=163)
+
+*   [注册VIP邮箱（特权邮箱，付费）](https://reg1.vip.163.com/newReg1/reg?from=new_topnav&utm_source=new_topnav)
+*   [免费下载网易官方手机邮箱应用](https://mail.163.com/client/dl.html?from=mail46)
+
+[](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)
+
+[安全退出](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)
+
+*   [_移动端_](https://www.163.com/newsapp/#f=163nav)[![Image 9](https://static.ws.126.net/f2e/include/common_nav/images/topapp.jpg)](https://www.163.com/newsapp/#f=163nav)  
+*   
+[_网易公开课_](https://open.163.com/#ftopnav0)
+
+    *   [TED](https://open.163.com/ted/#ftopnav1)
+    *   [中国大学视频公开课](https://open.163.com/cuvocw/#ftopnav2)
+    *   [国际名校公开课](https://open.163.com/ocw/#ftopnav3)
+    *   [赏课·纪录片](https://open.163.com/appreciation/#ftopnav4)
+    *   [付费精品课程](https://vip.open.163.com/#ftopnav5)
+    *   [北京大学公开课](https://open.163.com/special/School/beida.html#ftopnav6)
+    *   [英语课程学习](https://open.163.com/newview/movie/courseintro?newurl=ME7HSJR07#ftopnav7)
+
+*   
+[_网易严选_](https://you.163.com/?from=web_fc_menhu_xinrukou_1)
+
+    *   [新人特价](https://act.you.163.com/act/pub/ABuyLQKNmKmK.html?from=out_ynzy_xinrukou_2)
+    *   [9.9专区](https://you.163.com/topic/v1/pub/Pew1KBH9Au.html?from=out_ynzy_xinrukou_3)
+    *   [新品热卖](https://you.163.com/item/newItemRank?from=out_ynzy_xinrukou_4)
+    *   [人气好物](https://you.163.com/item/recommend?from=out_ynzy_xinrukou_5)
+    *   [居家生活](https://you.163.com/item/list?categoryId=1005000&from=out_ynzy_xinrukou_7)
+    *   [服饰鞋包](https://you.163.com/item/list?categoryId=1010000&from=out_ynzy_xinrukou_8)
+    *   [母婴亲子](https://you.163.com/item/list?categoryId=1011000&from=out_ynzy_xinrukou_9)
+    *   [美食酒水](https://you.163.com/item/list?categoryId=1005002&from=out_ynzy_xinrukou_10)
+
+*   
+[_支付_](https://ecard.163.com/)
+
+    *   [一卡通充值](https://ecard.163.com/#f=topnav)
+    *   [一卡通购买](https://ecard.163.com/script/index#f=topnav)
+    *   [我的网易支付](https://epay.163.com/)
+    *   [网易跨境支付](https://globalpay.163.com/home)
+
+*   
+[_邮箱_](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)
+
+    *   [免费邮箱](https://email.163.com/#f=topnav)
+    *   [VIP邮箱](https://vipmail.163.com/#f=topnav)
+    *   [企业邮箱](https://qiye.163.com/?from=NetEase163top)
+    *   [免费注册](https://mail.163.com/register/index.htm?from=ntes_nav&regPage=163)
+    *   [客户端下载](https://mail.163.com/dashi/dlpro.html?from=mail46)
+
+[](javascript:;)
+
+[网易首页](https://www.163.com/)>[网易号](https://dy.163.com/)> 正文 [申请入驻](https://dy.163.com/wemedia/index.html)
+
+# 泊松软件取得基于BREP的CAD模型对比方法、设备和存储介质专利
+
+ 2025-11-26 13:05:14 来源: [金融界](https://www.163.com/dy/media/T1510627880310.html)![Image 10](https://static.ws.126.net/163/f2e/dy_media/dy_media/static/images/ipLocation.f6d00eb.svg)北京 [举报](https://www.163.com/special/0077jt/tipoff.html?title=%E6%B3%8A%E6%9D%BE%E8%BD%AF%E4%BB%B6%E5%8F%96%E5%BE%97%E5%9F%BA%E4%BA%8EBREP%E7%9A%84CAD%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95%E3%80%81%E8%AE%BE%E5%A4%87%E5%92%8C%E5%AD%98%E5%82%A8%E4%BB%8B%E8%B4%A8%E4%B8%93%E5%88%A9)
+
+[](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html#post_comment_area "快速发贴")[0](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html# "点击查看跟贴")
+
+分享至
+*   [](javascript:;)
+*   [](javascript:;)
+*   [](javascript:;)
+
+[](javascript:; "关闭")
+
+![Image 11: Scan me!](blob:http://localhost/00b41c1295eee17b977b0e8e2d2388d7)
+
+用微信扫码二维码
+
+分享至好友和朋友圈
+
+国家知识产权局信息显示，深圳泊松软件技术有限公司取得一项名为“基于BREP的CAD模型对比方法、设备和存储介质”的专利，授权公告号CN 119312543 B，申请日期为2024年9月。
+
+天眼查资料显示，深圳泊松软件技术有限公司，成立于2022年，位于深圳市，是一家以从事软件和信息技术服务业为主的企业。企业注册资本13084.3136万人民币。通过天眼查大数据分析，深圳泊松软件技术有限公司共对外投资了5家企业，参与招投标项目4次，财产线索方面有商标信息92条，专利信息42条，此外企业还拥有行政许可5个。
+
+声明：市场有风险，投资需谨慎。本文为AI基于第三方数据生成，仅供参考，不构成个人投资建议。
+
+本文源自：市场资讯
+
+作者：情报员
+
+特别声明：以上内容(如有图片或视频亦包括在内)为自媒体平台“网易号”用户上传并发布，本平台仅提供信息存储服务。
+
+Notice: The content above (including the pictures and videos if any) is uploaded and posted by a user of NetEase Hao, which is a social media platform and only provides information storage services.
+
+_/_ 阅读下一篇 _/_
+
+### [](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html)
+
+[返回网易首页](https://www.163.com/?f=post2020_dy)[下载网易新闻客户端](https://www.163.com/newsapp/#f=post2020_dy)
+
+相关推荐
+
+热点推荐
+
+*   [![Image 12](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0707/95f7ab48j00thsgdp00ohd000ji00jhp.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L183ANAL0511AQHO.html?f=post2020_dy_recommends)### [前大疆员工做款消费级纺织机，拿下红杉、顺为、米哈游等数亿融资](https://www.163.com/dy/article/L183ANAL0511AQHO.html?f=post2020_dy_recommends)
+
+机器之心Pro 2026-07-07 12:56:32
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L183ANAL0511AQHO.html?f=post2020_dy_recommends) 
+*   [![Image 13](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/three74346246342j00thsbxc001xd000yi00n0g.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17UO7FD05198CJN.html?f=post2020_dy_recommends)### [强强联合锚定部署态元年：爱仕达构筑具身智能全场景产业闭环](https://www.163.com/dy/article/L17UO7FD05198CJN.html?f=post2020_dy_recommends)
+
+财联社 2026-07-07 11:36:19
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L17UO7FD05198CJN.html?f=post2020_dy_recommends) 
+*   [![Image 14](https://static.ws.126.net/dy/images/default180x120.jpg)](https://www.163.com/v/video/VVFHN28LV.html?f=post2020_dy_recommends)### [潞晨尤洋谈三类需要私有大模型的企业](https://www.163.com/v/video/VVFHN28LV.html?f=post2020_dy_recommends)
+
+量子位 2025-12-11 03:38:31
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VVFHN28LV.html?f=post2020_dy_recommends) 
+*   [![Image 15](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/da6760cf_8_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L185L8N905198CJN.html?f=post2020_dy_recommends)### [OLA Energy签署协议 收购道达尔能源埃塞俄比亚下游业务](https://www.163.com/dy/article/L185L8N905198CJN.html?f=post2020_dy_recommends)
+
+财联社 2026-07-07 13:37:02
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L185L8N905198CJN.html?f=post2020_dy_recommends) 
+*   [![Image 16](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little27988a12ca9j00thpwz1001ed000hs00a0p.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L14IC26E05561FY7.html?f=post2020_dy_recommends)### [2077年的夜之城，居然还在用实体光盘？](https://www.163.com/dy/article/L14IC26E05561FY7.html?f=post2020_dy_recommends)
+
+山月不知2 2026-07-06 04:02:15
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L14IC26E05561FY7.html?f=post2020_dy_recommends) 
+*   [![Image 17](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260706/2egEF96Yv_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VH08BPLDJ.html?f=post2020_dy_recommends)### [男子偷公司电缆怕被发现，顺走企业记录资料硬盘丢河里](https://www.163.com/v/video/VH08BPLDJ.html?f=post2020_dy_recommends)
+
+南阳日报 2026-07-06 18:55:16
+
+[555 _跟贴_ 555](https://www.163.com/v/video/VH08BPLDJ.html?f=post2020_dy_recommends) 
+*   [![Image 18](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/three391f44dce7cj00thrxk500lnd200u000ixg00ym00lt.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17C2AJL051492LM.html?f=post2020_dy_recommends)### [再见青春！葡萄牙0-1不敌西班牙，止步16强，41岁C罗泪洒球场，最后一舞遗憾落幕](https://www.163.com/dy/article/L17C2AJL051492LM.html?f=post2020_dy_recommends)
+
+都市快报橙柿互动 2026-07-07 06:09:47
+
+[6996 _跟贴_ 6996](https://www.163.com/dy/article/L17C2AJL051492LM.html?f=post2020_dy_recommends) 
+*   [![Image 19](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/7ff7984fp00thscbo001uc0009c0070c.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/news/article/L17UAEKB00019B3E.html?f=post2020_dy_recommends)### [媒体：逼走中企后接盘工厂 美国还吹嘘新能源"复兴"了](https://www.163.com/news/article/L17UAEKB00019B3E.html?f=post2020_dy_recommends)
+
+澎湃新闻 2026-07-07 11:43:57
+
+[2020 _跟贴_ 2020](https://www.163.com/news/article/L17UAEKB00019B3E.html?f=post2020_dy_recommends) 
+*   [![Image 20](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0706/fe87e890p00threob007oc0009c0070c.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/news/article/L16KM9T70001899O.html?f=post2020_dy_recommends)### [19岁大学生立遗嘱将2000万财产留给发小 原因令人唏嘘](https://www.163.com/news/article/L16KM9T70001899O.html?f=post2020_dy_recommends)
+
+新闻晨报 2026-07-06 23:21:16
+
+[4021 _跟贴_ 4021](https://www.163.com/news/article/L16KM9T70001899O.html?f=post2020_dy_recommends) 
+*   [![Image 21](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/07/04/YJrZBwBoz9Sve1ZIalc644cbl4dqCzMm0mpbsnfko.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L10QNKPG05560OXO.html?f=post2020_dy_recommends)### [程序员对上位机的态度∶能用就行？我不同意！](https://www.163.com/dy/article/L10QNKPG05560OXO.html?f=post2020_dy_recommends)
+
+程序员古耕 2026-07-04 17:23:40
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L10QNKPG05560OXO.html?f=post2020_dy_recommends) 
+*   [![Image 22](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260706/n4MSdH7je_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VZ08IILQG.html?f=post2020_dy_recommends)### [乌克兰全境火海，俄军海陆空饱和轰炸，军工企业惨遭灭顶之灾](https://www.163.com/v/video/VZ08IILQG.html?f=post2020_dy_recommends)
+
+一饮山河 2026-07-06 20:53:47
+
+[1 _跟贴_ 1](https://www.163.com/v/video/VZ08IILQG.html?f=post2020_dy_recommends) 
+*   [![Image 23](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/da6760cf_5_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L15S85OB0514R9P4.html?f=post2020_dy_recommends)### [我国现有人民监督员2.5万人](https://www.163.com/dy/article/L15S85OB0514R9P4.html?f=post2020_dy_recommends)
+
+澎湃新闻 2026-07-06 16:14:07
+
+[5733 _跟贴_ 5733](https://www.163.com/dy/article/L15S85OB0514R9P4.html?f=post2020_dy_recommends) 
+*   [![Image 24](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260707/ReV8JYiSp_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VZ09UDI3R.html?f=post2020_dy_recommends)### [为什么狙击手在现实生活中很少选择爆头？是没那个技术吗](https://www.163.com/v/video/VZ09UDI3R.html?f=post2020_dy_recommends)
+
+军械百科 2026-07-07 09:39:57
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VZ09UDI3R.html?f=post2020_dy_recommends) 
+*   [![Image 25](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/three815a5694de1j00thqts2001rd000sg00izc.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L15QSPU40514R9P4.html?f=post2020_dy_recommends)### [中国男篮92比74中国台北，晋级世预赛第二阶段](https://www.163.com/dy/article/L15QSPU40514R9P4.html?f=post2020_dy_recommends)
+
+澎湃新闻 2026-07-06 15:50:27
+
+[443 _跟贴_ 443](https://www.163.com/dy/article/L15QSPU40514R9P4.html?f=post2020_dy_recommends) 
+*   [![Image 26](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little65301da88b7j00thrcbo001jd000hs00ahg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L16ITD370550B6IS.html?f=post2020_dy_recommends)### [“D级危楼，存在较大安全隐患”，甘肃省天水市政府机关办公楼发布搬迁公告](https://www.163.com/dy/article/L16ITD370550B6IS.html?f=post2020_dy_recommends)
+
+大象新闻 2026-07-06 22:50:12
+
+[1394 _跟贴_ 1394](https://www.163.com/dy/article/L16ITD370550B6IS.html?f=post2020_dy_recommends) 
+*   [![Image 27](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260706/Eh25BI98T_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VE081RS2R.html?f=post2020_dy_recommends)### [男子被导航软件提醒车子没油了，看了一眼仪表盘发现油箱真见底了](https://www.163.com/v/video/VE081RS2R.html?f=post2020_dy_recommends)
+
+新观在线 2026-07-06 16:01:43
+
+[1 _跟贴_ 1](https://www.163.com/v/video/VE081RS2R.html?f=post2020_dy_recommends) 
+*   [![Image 28](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260706/v1wRgDFm0_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VH083QUFD.html?f=post2020_dy_recommends)### [网友分享自己新买的西瓜，一刀切下去瞬感不妙](https://www.163.com/v/video/VH083QUFD.html?f=post2020_dy_recommends)
+
+南阳日报 2026-07-06 16:36:10
+
+[221 _跟贴_ 221](https://www.163.com/v/video/VH083QUFD.html?f=post2020_dy_recommends) 
+*   [![Image 29](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260707/MfgBr615h_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VZ099084U.html?f=post2020_dy_recommends)### [高市早苗给莫迪“送大礼”！日本最上级最核心的技术，被卖给印度](https://www.163.com/v/video/VZ099084U.html?f=post2020_dy_recommends)
+
+隐龙天下 2026-07-07 03:25:41
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VZ099084U.html?f=post2020_dy_recommends) 
+*   [![Image 30](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little451be7f76aaj00thqyzo0033d0015o00rrg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L162AA550514R9OJ.html?f=post2020_dy_recommends)### [增程车为什么被冷落了](https://www.163.com/dy/article/L162AA550514R9OJ.html?f=post2020_dy_recommends)
+
+环球网资讯 2026-07-06 18:00:09
+
+[360 _跟贴_ 360](https://www.163.com/dy/article/L162AA550514R9OJ.html?f=post2020_dy_recommends) 
+*   [![Image 31](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little2257c4a038cj00thpf90001fd000hs00dcg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L13THAK50550B6IS.html?f=post2020_dy_recommends)### [小店老板守着冰柜叹气：今年雪糕棒冰怎么没人吃了？](https://www.163.com/dy/article/L13THAK50550B6IS.html?f=post2020_dy_recommends)
+
+大象新闻 2026-07-05 21:58:07
+
+[1385 _跟贴_ 1385](https://www.163.com/dy/article/L13THAK50550B6IS.html?f=post2020_dy_recommends) 
+*   [![Image 32](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260707/D9gZNPC06_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VX09S70KL.html?f=post2020_dy_recommends)### [90%的人空调开错了，26℃并不省电！实测数据真相扎心](https://www.163.com/v/video/VX09S70KL.html?f=post2020_dy_recommends)
+
+奥利奥变薄了的 2026-07-07 09:01:25
+
+[4 _跟贴_ 4](https://www.163.com/v/video/VX09S70KL.html?f=post2020_dy_recommends) 
+*   [![Image 33](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/03a40839p00ths14p000xc000c7005wc.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17GDJ980534A4SC.html?f=post2020_dy_recommends)### [龚孟建代理山西长治市市长](https://www.163.com/dy/article/L17GDJ980534A4SC.html?f=post2020_dy_recommends)
+
+界面新闻 2026-07-07 07:25:51
+
+[33 _跟贴_ 33](https://www.163.com/dy/article/L17GDJ980534A4SC.html?f=post2020_dy_recommends) 
+*   [![Image 34](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little4553fac54e7j00thra4j00jmd000ku00dwg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L16FBTCJ05129QAF.html?f=post2020_dy_recommends)### [无论能走多远，美国队俨然已是输家](https://www.163.com/dy/article/L16FBTCJ05129QAF.html?f=post2020_dy_recommends)
+
+南方都市报 2026-07-06 21:48:13
+
+[203 _跟贴_ 203](https://www.163.com/dy/article/L16FBTCJ05129QAF.html?f=post2020_dy_recommends) 
+*   [![Image 35](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260707/9x2gYOCDd_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VY099V8FU.html?f=post2020_dy_recommends)### [韩红已经陆续退出名下关联公司！企查查、天眼查工商数据显示，](https://www.163.com/v/video/VY099V8FU.html?f=post2020_dy_recommends)
+
+太正经搞笑 2026-07-07 03:42:37
+
+[1 _跟贴_ 1](https://www.163.com/v/video/VY099V8FU.html?f=post2020_dy_recommends) 
+*   [![Image 36](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260705/Wa4yP6uCB_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VW04824HK.html?f=post2020_dy_recommends)### [企业老板炒股亏钱的教训](https://www.163.com/v/video/VW04824HK.html?f=post2020_dy_recommends)
+
+朴朴实实的情 2026-07-05 04:33:02
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VW04824HK.html?f=post2020_dy_recommends) 
+*   [![Image 37](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/b47c5e23_9_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L16201AN0514CFC7.html?f=post2020_dy_recommends)### [八旬老人投喂被困下水道的小狗四年 自觉年事已高求助 镇政府用探测车救出小狗](https://www.163.com/dy/article/L16201AN0514CFC7.html?f=post2020_dy_recommends)
+
+闪电新闻 2026-07-06 17:54:32
+
+[1353 _跟贴_ 1353](https://www.163.com/dy/article/L16201AN0514CFC7.html?f=post2020_dy_recommends) 
+*   [![Image 38](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little815788a6bd3j00thqz990027d000u000jem.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L161LC9K05129QAF.html?f=post2020_dy_recommends)### [防爆挡墙竟是空心的，中央考核巡查组：他就是在作假](https://www.163.com/dy/article/L161LC9K05129QAF.html?f=post2020_dy_recommends)
+
+南方都市报 2026-07-06 17:48:57
+
+[335 _跟贴_ 335](https://www.163.com/dy/article/L161LC9K05129QAF.html?f=post2020_dy_recommends) 
+*   [![Image 39](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/da6760cf_12_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L18517QF05198CJN.html?f=post2020_dy_recommends)### [存储芯片概念持续走弱 德明利逼近跌停](https://www.163.com/dy/article/L18517QF05198CJN.html?f=post2020_dy_recommends)
+
+财联社 2026-07-07 13:26:06
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L18517QF05198CJN.html?f=post2020_dy_recommends) 
+*   [![Image 40](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/b47c5e23_0_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L185FSAQ05198CJN.html?f=post2020_dy_recommends)### [创业板指跌逾2% 下跌个股超4800只](https://www.163.com/dy/article/L185FSAQ05198CJN.html?f=post2020_dy_recommends)
+
+财联社 2026-07-07 13:34:06
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L185FSAQ05198CJN.html?f=post2020_dy_recommends) 
+*   [![Image 41](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little162842a2534j00thsaf80062d200hs00aog00hs00ao.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17RUTN805538D6M.html?f=post2020_dy_recommends)### [福特、通用锁单美光，车厂也开始抢存储了](https://www.163.com/dy/article/L17RUTN805538D6M.html?f=post2020_dy_recommends)
+
+芯世相 2026-07-07 10:47:33
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L17RUTN805538D6M.html?f=post2020_dy_recommends) 
+*   [![Image 42](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little48625454c64j00thqzyp0015d000ku00f1g.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L164727T053469M5.html?f=post2020_dy_recommends)### [成渝间T字头绿皮车重开，硬座票价50.5元，全程运行不到4小时](https://www.163.com/dy/article/L164727T053469M5.html?f=post2020_dy_recommends)
+
+上游新闻 2026-07-06 18:33:20
+
+[634 _跟贴_ 634](https://www.163.com/dy/article/L164727T053469M5.html?f=post2020_dy_recommends) 
+*   [![Image 43](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little166e4027bb7j00thriuo0014d000hs00hsg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L184M6SL05561G0D.html?f=post2020_dy_recommends)### [字节跳动申请网络热梗著作权，包括“咕咕嘎嘎”“刀盾狗”“香蕉猫”等数十个网络热门表情包 ，网友吐槽：是你的吗，你就登记？](https://www.163.com/dy/article/L184M6SL05561G0D.html?f=post2020_dy_recommends)
+
+大风新闻 2026-07-07 13:20:05
+
+[131 _跟贴_ 131](https://www.163.com/dy/article/L184M6SL05561G0D.html?f=post2020_dy_recommends) 
+*   [![Image 44](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/three58605210fc4j00ths0100017d000hs009zg.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17GE9ER0550B6IS.html?f=post2020_dy_recommends)### [涨超300%！内存条价格暴涨！最新预测](https://www.163.com/dy/article/L17GE9ER0550B6IS.html?f=post2020_dy_recommends)
+
+大象新闻 2026-07-07 07:26:14
+
+[49 _跟贴_ 49](https://www.163.com/dy/article/L17GE9ER0550B6IS.html?f=post2020_dy_recommends) 
+*   [![Image 45](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260706/DeJZjAp9l_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VZ06QJPHO.html?f=post2020_dy_recommends)### [今天这场球王曼昱不是输在了技术。是输在了心态](https://www.163.com/v/video/VZ06QJPHO.html?f=post2020_dy_recommends)
+
+看你像个宝 2026-07-06 04:35:44
+
+[1 _跟贴_ 1](https://www.163.com/v/video/VZ06QJPHO.html?f=post2020_dy_recommends) 
+*   [![Image 46](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little2329c4cc89ej00thscve003jd000sg00izc.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L17UVO820514R9P4.html?f=post2020_dy_recommends)### [欧洲迎今夏第三波热浪：多国多地破40℃，法德电价将大涨](https://www.163.com/dy/article/L17UVO820514R9P4.html?f=post2020_dy_recommends)
+
+澎湃新闻 2026-07-07 11:40:26
+
+[287 _跟贴_ 287](https://www.163.com/dy/article/L17UVO820514R9P4.html?f=post2020_dy_recommends) 
+*   [![Image 47](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/487b3f90_6_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L185FSGJ05198CJN.html?f=post2020_dy_recommends)### [PCB概念震荡回落 深南电路触及跌停](https://www.163.com/dy/article/L185FSGJ05198CJN.html?f=post2020_dy_recommends)
+
+财联社 2026-07-07 13:34:06
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L185FSGJ05198CJN.html?f=post2020_dy_recommends) 
+*   [![Image 48](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/doccover_gen/b47c5e23_6_cover.png&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L185EN510512B07B.html?f=post2020_dy_recommends)### [每经热评｜再融资规则重塑放大可转债优势，重点应防范大股东套利](https://www.163.com/dy/article/L185EN510512B07B.html?f=post2020_dy_recommends)
+
+每日经济新闻 2026-07-07 13:33:28
+
+[0 _跟贴_ 0](https://www.163.com/dy/article/L185EN510512B07B.html?f=post2020_dy_recommends) 
+*   [![Image 49](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260705/GTqS3mrsY_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VZ03PF1B5.html?f=post2020_dy_recommends)### [深圳的发展基础重点依靠民营企业](https://www.163.com/v/video/VZ03PF1B5.html?f=post2020_dy_recommends)
+
+王波说房 2026-07-05 00:17:56
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VZ03PF1B5.html?f=post2020_dy_recommends) 
+*   [![Image 50](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little5954875a68aj00thr2c4000pd000is0078g.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/dy/article/L165VS5D055672IU.html?f=post2020_dy_recommends)### [“广州征集解禁摩托车意见”不实（2026·07·06）](https://www.163.com/dy/article/L165VS5D055672IU.html?f=post2020_dy_recommends)
+
+今日辟谣 2026-07-06 19:04:21
+
+[109 _跟贴_ 109](https://www.163.com/dy/article/L165VS5D055672IU.html?f=post2020_dy_recommends) 
+*   [![Image 51](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260703/UYshqegPK_cover.jpg&thumbnail=140y88&quality=80&type=jpg)](https://www.163.com/v/video/VXVVR954N.html?f=post2020_dy_recommends)### [单缸汽油发动机模型](https://www.163.com/v/video/VXVVR954N.html?f=post2020_dy_recommends)
+
+制造科技 2026-07-03 11:32:43
+
+[0 _跟贴_ 0](https://www.163.com/v/video/VXVVR954N.html?f=post2020_dy_recommends) 
+
+[![Image 52: 41岁C罗世界杯生涯能打几分？没有世界杯冠军对他地位影响多大？](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0707/6224876cj00ths6i4000td000f000b9p.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L17N1DMQ0556DLL3.html?f=post1603_tab_news "41岁C罗世界杯生涯能打几分？没有世界杯冠军对他地位影响多大？")
+### [41岁C罗世界杯生涯能打几分？没有世界杯冠军对他地位影响多大？](https://www.163.com/dy/article/L17N1DMQ0556DLL3.html?f=post1603_tab_news "41岁C罗世界杯生涯能打几分？没有世界杯冠军对他地位影响多大？")
+
+之乎者也小鱼儿
+
+2026-07-07 09:23:14
+
+[![Image 53: 6000 万截胡！曼联锁定世界级边锋，天赋碾压萨默维尔](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0707/fe195f9bj00ths32400s6d000v900hkp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L17IS17S0556LHGE.html?f=post1603_tab_news "6000 万截胡！曼联锁定世界级边锋，天赋碾压萨默维尔")
+### [6000 万截胡！曼联锁定世界级边锋，天赋碾压萨默维尔](https://www.163.com/dy/article/L17IS17S0556LHGE.html?f=post1603_tab_news "6000 万截胡！曼联锁定世界级边锋，天赋碾压萨默维尔")
+
+一隅非生
+
+2026-07-07 08:09:15
+
+[![Image 54: 对标贝林厄姆！英超全能巨星铁心加盟阿森纳，枪手锁定完美替身](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0707/206f734fj00thrr7400uqd000v900hkp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L1746LQG0556GNP0.html?f=post1603_tab_news "对标贝林厄姆！英超全能巨星铁心加盟阿森纳，枪手锁定完美替身")
+### [对标贝林厄姆！英超全能巨星铁心加盟阿森纳，枪手锁定完美替身](https://www.163.com/dy/article/L1746LQG0556GNP0.html?f=post1603_tab_news "对标贝林厄姆！英超全能巨星铁心加盟阿森纳，枪手锁定完美替身")
+
+澜归序
+
+2026-07-07 03:59:30
+
+[![Image 55: 压垮库明加最后一棵稻草！波斯特签3000万合同，听科尔赚大钱](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big963aa18ae52j00thrh58001wd000u000iqp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L16NPGQL0556DJ9E.html?f=post1603_tab_news "压垮库明加最后一棵稻草！波斯特签3000万合同，听科尔赚大钱")
+### [压垮库明加最后一棵稻草！波斯特签3000万合同，听科尔赚大钱](https://www.163.com/dy/article/L16NPGQL0556DJ9E.html?f=post1603_tab_news "压垮库明加最后一棵稻草！波斯特签3000万合同，听科尔赚大钱")
+
+富贵体坛说
+
+2026-07-07 00:15:28
+
+[![Image 56: 克里米亚被乌军封锁，俄军伪装民用车辆补给，乌军无人机识别击杀](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big3655897e4a6j00tgwoil000ud000hs00a0g.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/KVRTHSNS055615MY.html?f=post1603_tab_news "克里米亚被乌军封锁，俄军伪装民用车辆补给，乌军无人机识别击杀")
+### [克里米亚被乌军封锁，俄军伪装民用车辆补给，乌军无人机识别击杀](https://www.163.com/dy/article/KVRTHSNS055615MY.html?f=post1603_tab_news "克里米亚被乌军封锁，俄军伪装民用车辆补给，乌军无人机识别击杀")
+
+房产衫哥
+
+2026-06-20 09:08:48
+
+[![Image 57: 中央考核巡查组当场揭穿：他就是在作假！](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little939fef3cf71j00ths1vd002sd200u000fjg00fo0083.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L17HCOQ005149AGP.html?f=post1603_tab_news "中央考核巡查组当场揭穿：他就是在作假！")
+### [中央考核巡查组当场揭穿：他就是在作假！](https://www.163.com/dy/article/L17HCOQ005149AGP.html?f=post1603_tab_news "中央考核巡查组当场揭穿：他就是在作假！")
+
+吉刻新闻
+
+2026-07-07 07:42:52
+
+[![Image 58: 砸1500亿！打通南岭天险，我国正圆两千年没成的梦](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big1644df7dd40j00thpr5b000xd000hs00bug.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L14B54SE0553T94S.html?f=post1603_tab_news "砸1500亿！打通南岭天险，我国正圆两千年没成的梦")
+### [砸1500亿！打通南岭天险，我国正圆两千年没成的梦](https://www.163.com/dy/article/L14B54SE0553T94S.html?f=post1603_tab_news "砸1500亿！打通南岭天险，我国正圆两千年没成的梦")
+
+刘哥谈体育
+
+2026-07-06 01:56:08
+
+[![Image 59: 俄宣布占领康斯坦丁尼夫卡，国际权威媒体：俄军仅控制了37%](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/07/04/mmz2CIeXzIdvoW1cS5iJRNIMPJX2HTJv0mpbf0f87.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L10DM9940552D6K3.html?f=post1603_tab_news "俄宣布占领康斯坦丁尼夫卡，国际权威媒体：俄军仅控制了37%")
+### [俄宣布占领康斯坦丁尼夫卡，国际权威媒体：俄军仅控制了37%](https://www.163.com/dy/article/L10DM9940552D6K3.html?f=post1603_tab_news "俄宣布占领康斯坦丁尼夫卡，国际权威媒体：俄军仅控制了37%")
+
+史政先锋
+
+2026-07-04 13:25:19
+
+[![Image 60: 巴黎新生儿70%是黑人，法国正在“换种”](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0703/d70d6542j00thliqg00zhd000v900jyp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L0UEFJ610524K8JC.html?f=post1603_tab_news "巴黎新生儿70%是黑人，法国正在“换种”")
+### [巴黎新生儿70%是黑人，法国正在“换种”](https://www.163.com/dy/article/L0UEFJ610524K8JC.html?f=post1603_tab_news "巴黎新生儿70%是黑人，法国正在“换种”")
+
+李荣茂
+
+2026-07-03 19:05:58
+
+[![Image 61: 如果没有七八年取消成分论，地主富农可能就没后代了](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big2359c58c45bj00thcbc90019d000hs00dcg.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L0HL60QM0553LJ9S.html?f=post1603_tab_news "如果没有七八年取消成分论，地主富农可能就没后代了")
+### [如果没有七八年取消成分论，地主富农可能就没后代了](https://www.163.com/dy/article/L0HL60QM0553LJ9S.html?f=post1603_tab_news "如果没有七八年取消成分论，地主富农可能就没后代了")
+
+匹夫来搞笑
+
+2026-06-28 19:45:48
+
+[![Image 62: 郭麒麟、黄渤、马思纯合体亮相，马思纯：再瘦我们俩就不认识你了](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0706/abc3b730j00thqbaj001vd000fu00ntm.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L15425H60517U8SU.html?f=post1603_tab_news "郭麒麟、黄渤、马思纯合体亮相，马思纯：再瘦我们俩就不认识你了")
+### [郭麒麟、黄渤、马思纯合体亮相，马思纯：再瘦我们俩就不认识你了](https://www.163.com/dy/article/L15425H60517U8SU.html?f=post1603_tab_news "郭麒麟、黄渤、马思纯合体亮相，马思纯：再瘦我们俩就不认识你了")
+
+韩小娱
+
+2026-07-06 09:12:24
+
+[![Image 63: 找对象别光看长相！这姑娘再好，不是过日子的人也不行](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0622/f92bd798j00th0v2v00c4d000hx00cbp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L01NKO7I0556GQ42.html?f=post1603_tab_news "找对象别光看长相！这姑娘再好，不是过日子的人也不行")
+### [找对象别光看长相！这姑娘再好，不是过日子的人也不行](https://www.163.com/dy/article/L01NKO7I0556GQ42.html?f=post1603_tab_news "找对象别光看长相！这姑娘再好，不是过日子的人也不行")
+
+曹莽看世界
+
+2026-06-22 15:21:34
+
+[![Image 64: 香港知名tvb演员突然去世！“恶女”形象深入人心！网友不舍告别...](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big944edeb6d77j00thr9cj003ld200u000gwg00it00al.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L16E4MH505531TUH.html?f=post1603_tab_news "香港知名tvb演员突然去世！“恶女”形象深入人心！网友不舍告别...")
+### [香港知名tvb演员突然去世！“恶女”形象深入人心！网友不舍告别...](https://www.163.com/dy/article/L16E4MH505531TUH.html?f=post1603_tab_news "香港知名tvb演员突然去世！“恶女”形象深入人心！网友不舍告别...")
+
+港漂圈
+
+2026-07-06 21:26:48
+
+[![Image 65: 世界杯八分之一决赛预测：阿根廷3-1埃及，瑞士2-2哥伦比亚](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big634823b0489j00ths4300124d000v900jwp.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L17K5JEA05567SBP.html?f=post1603_tab_news "世界杯八分之一决赛预测：阿根廷3-1埃及，瑞士2-2哥伦比亚")
+### [世界杯八分之一决赛预测：阿根廷3-1埃及，瑞士2-2哥伦比亚](https://www.163.com/dy/article/L17K5JEA05567SBP.html?f=post1603_tab_news "世界杯八分之一决赛预测：阿根廷3-1埃及，瑞士2-2哥伦比亚")
+
+越岭寻踪
+
+2026-07-07 08:31:31
+
+[![Image 66: 家有壁虎，它不轻易进家，进来就是给你传2个信号](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big880e4ce834aj00thosyz0017d000hs00bug.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L130TAPC0553TEUI.html?f=post1603_tab_news "家有壁虎，它不轻易进家，进来就是给你传2个信号")
+### [家有壁虎，它不轻易进家，进来就是给你传2个信号](https://www.163.com/dy/article/L130TAPC0553TEUI.html?f=post1603_tab_news "家有壁虎，它不轻易进家，进来就是给你传2个信号")
+
+超人强动物俱乐部
+
+2026-07-05 13:37:52
+
+[![Image 67: 奥运冠军“拉拉链露胸”，让耐克绷不住了！](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big54956f373faj00taw73w001gd200rg00m6g00rg00m6.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/KMET6F610514X2OL.html?f=post1603_tab_news "奥运冠军“拉拉链露胸”，让耐克绷不住了！")
+### [奥运冠军“拉拉链露胸”，让耐克绷不住了！](https://www.163.com/dy/article/KMET6F610514X2OL.html?f=post1603_tab_news "奥运冠军“拉拉链露胸”，让耐克绷不住了！")
+
+ 品牌营销报
+
+2026-02-23 11:31:10
+
+[![Image 68: 丢人丢到全亚洲，马来西亚媒体都来嘲讽新加坡：反应这么大干嘛？](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big893ee7d0d28j00th1jbg003hd000tz00i2p.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L02LK1OH0556BND4.html?f=post1603_tab_news "丢人丢到全亚洲，马来西亚媒体都来嘲讽新加坡：反应这么大干嘛？")
+### [丢人丢到全亚洲，马来西亚媒体都来嘲讽新加坡：反应这么大干嘛？](https://www.163.com/dy/article/L02LK1OH0556BND4.html?f=post1603_tab_news "丢人丢到全亚洲，马来西亚媒体都来嘲讽新加坡：反应这么大干嘛？")
+
+圆梦的小老头
+
+2026-06-23 00:05:01
+
+[![Image 69: 网曝韩红基金会捐赠车辆，23年和24年车辆数差不多，价格却翻一倍](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0706/193e0305j00thqpfi00nsd000v900kup.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L15L87D30517JNH6.html?f=post1603_tab_news "网曝韩红基金会捐赠车辆，23年和24年车辆数差不多，价格却翻一倍")
+### [网曝韩红基金会捐赠车辆，23年和24年车辆数差不多，价格却翻一倍](https://www.163.com/dy/article/L15L87D30517JNH6.html?f=post1603_tab_news "网曝韩红基金会捐赠车辆，23年和24年车辆数差不多，价格却翻一倍")
+
+小徐讲八卦
+
+2026-07-06 14:18:19
+
+[![Image 70: 非必要不做CT？医生强调：只要做过CT，患者一定多加关注这4点！](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2026/0609/47d22cb3j00tgd2qy002dd000u000mim.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/KV0L91E30556KJNM.html?f=post1603_tab_news "非必要不做CT？医生强调：只要做过CT，患者一定多加关注这4点！")
+### [非必要不做CT？医生强调：只要做过CT，患者一定多加关注这4点！](https://www.163.com/dy/article/KV0L91E30556KJNM.html?f=post1603_tab_news "非必要不做CT？医生强调：只要做过CT，患者一定多加关注这4点！")
+
+叙说医疗健康
+
+2026-06-16 08:00:21
+
+[![Image 71: 国务院发声！不出意外的话，未来5年，大学本科或将出现3大变化](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/big729d3534814j00thplde002jd000yi00k8p.jpg&thumbnail=140y88&quality=90&type=jpg)](https://www.163.com/dy/article/L1440UTH0556BRWR.html?f=post1603_tab_news "国务院发声！不出意外的话，未来5年，大学本科或将出现3大变化")
+### [国务院发声！不出意外的话，未来5年，大学本科或将出现3大变化](https://www.163.com/dy/article/L1440UTH0556BRWR.html?f=post1603_tab_news "国务院发声！不出意外的话，未来5年，大学本科或将出现3大变化")
+
+飘逸语人
+
+2026-07-05 23:51:34
+
+2026-07-07 14:08:49
+
+[![Image 72: 金融界](https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/=ZH5U0IdgMDHlRK=ualz4kaxV3w1QsXhfhUyr0gTuhd9S1510626818561.png&thumbnail=160y160&quality=80&type=jpg)![Image 73: incentive-icons](https://static.ws.126.net/m/newsapp/reading/vip/bluenew.png)](https://www.163.com/dy/media/T1510627880310.html)
+
+[金融界](https://www.163.com/dy/media/T1510627880310.html)
+
+[投资者信赖的财经金融门户网站](https://www.163.com/dy/media/T1510627880310.html)
+
+[_9194706_](https://www.163.com/dy/media/T1510627880310.html)文章数[_546604_](https://www.163.com/dy/media/T1510627880310.html)关注度
+
+往期回顾 [全部](https://www.163.com/dy/media/T1510627880310.html)
+
+[](javascript:;)
+
+## [财经要闻](https://money.163.com/)
+
+[![Image 74](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/6f28de3ep00ths32q006ec000s600e3c.png&thumbnail=300x150&quality=90&type=jpg) ### 百万粉丝主播的减肥“生意”](https://www.163.com/dy/article/L17IK8150514R9P4.html)
+
+*   ### [三星季度利润飙升19倍，AI存储芯片需求超预期](https://www.163.com/dy/article/L17FO6TM05198NMR.html)
+
+*   ### [史无前例！白宫为交易所敲开市钟](https://www.163.com/dy/article/L17FSC0S0519DDQ2.html)
+
+*   ### [8万元星空顶免费送！百万价格国产电动车“变相降价”](https://www.163.com/dy/article/L16PUT420519DFFO.html)
+
+*   ### [点都德一猪肠粉检出禁用防腐剂，品牌致歉：重庆区域下架涉事菜品，全国门店启动排查](https://www.163.com/dy/article/L185I1T20511U82T.html)
+
+[](javascript:;)
+
+## [头条要闻](https://news.163.com/?f=post2020_dy_news)
+
+[![Image 75](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/a22ba33fp00thsfu8008ic0009c0070c.png&thumbnail=300x150&quality=90&type=jpg) ### 媒体：比利时赛前内讧频发 若无"红牌"事件未必能赢](https://www.163.com/dy/article/L18297IU0514BE2Q.html)
+
+*   ### [媒体:官员称欧洲不适合装空调 有人提议中国电力输欧](https://www.163.com/dy/article/L17T0D030550A0OW.html)
+
+*   ### [美国1-4被淘汰 比利时进球后美国队主帅气得踢翻水瓶](https://www.163.com/dy/article/L17PCAPE0514R9P4.html)
+
+*   ### [牛弹琴：一张红牌引发惨案 世界团结起来美国形象完蛋](https://www.163.com/news/article/L17J810800019B3E.html)
+
+*   ### [中国潜射战略导弹射程达洲际 专家:通报含巨大信息量](https://www.163.com/dy/article/L17LVT9705504DOQ.html)
+
+[](javascript:;)
+
+## [体育要闻](https://sports.163.com/)
+
+[![Image 76](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0706/599f33eap00thqqez0082c000s600e3c.png&thumbnail=300x150&quality=90&type=jpg) ### 世界杯最强17岁，贝林厄姆主动和他交换球衣](https://www.163.com/sports/article/L15KVGBK00059A7T.html)
+
+*   ### [世界杯-西班牙1-0葡萄牙进八强 梅里诺替补绝杀](https://www.163.com/sports/article/L1785I2R00058781.html)
+
+*   ### [德凯特拉雷独造3球，比利时4-1美国约战西班牙](https://www.163.com/dy/article/L17NLUT90549753N.html)
+
+*   ### [C罗：我夺得3冠！在我之前葡萄牙0冠 欧洲杯冠军不亚于世界杯冠军](https://www.163.com/dy/article/L17E7VTD0553AOVQ.html)
+
+*   ### [C罗呆立原地+泪如雨下!获评6.8分全队倒数第3 18岁亚马尔上前安慰](https://www.163.com/dy/article/L179RFSA05566VBM.html)
+
+[](javascript:;)
+
+## [娱乐要闻](https://ent.163.com/)
+
+[![Image 77](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/9246915ap00ths7yx002ac000s600e3c.png&thumbnail=300x150&quality=90&type=jpg) ### 司晓迪再爆鹿晗，称两人已睡过](https://www.163.com/dy/article/L17LBQLT0556GO4V.html)
+
+*   ### [郭富城初恋女友姚正菁复出，57岁仍美艳动人](https://www.163.com/dy/article/L17GKKI10517BIU3.html)
+
+*   ### [筱梅妈妈为玥儿做一件事被称赞](https://www.163.com/dy/article/L17MNO9T05566SHW.html)
+
+*   ### [同心！黄晓明携肖战、杨紫等艺人驰援广西](https://www.163.com/dy/article/L17O74TU0530RMN7.html)
+
+*   ### [南京夫子庙偶遇佟丽娅母子，素颜又瘦又漂亮](https://www.163.com/dy/article/L17N1RR30553V42J.html)
+
+[](javascript:;)
+
+## [科技要闻](https://tech.163.com/)
+
+[![Image 78](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/88494531p00thschz008kc000s600e3c.png&thumbnail=300x150&quality=90&type=jpg) ### Claude说话前 脑子里可能先亮起了这些概念](https://www.163.com/tech/article/L17UH5LF00097U7T.html)
+
+*   ### [AI把内存价格打上去，三星Q2营业利润暴增18倍](https://www.163.com/tech/article/L17JADU300097U7T.html)
+
+*   ### [腾讯减持快手，但没有退出快手的AI故事](https://www.163.com/tech/article/L17KVAHA00097U7T.html)
+
+*   ### [微软大裁员：Xbox砍掉3200个岗位](https://www.163.com/tech/article/L17H85VC00097U7T.html)
+
+*   ### [你在笑机器人摔跤,工程师在想怎么不砸死人](https://www.163.com/tech/article/L15VUUF400097U7T.html)
+
+[](javascript:;)
+
+## [汽车要闻](https://auto.163.com/)
+
+[![Image 79](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0707/2ac3dd2bj00ths4zd00u0c000s600e3c.jpg&thumbnail=300x150&quality=90&type=jpg) ### 试驾全新坦克300 Hi4-Z/激光雷达/全场景NOA](https://www.163.com/v/video/VK09RII2A.html)
+
+*   ### [重新定义出行美学 吉利银河TT首发亮相/或8月上市](https://www.163.com/auto/article/L16G0I6F0008856R.html)
+
+*   ### [首搭Hi4-Z 全新坦克300开启预售 25.98万起](https://www.163.com/auto/article/L16DKRER0008856R.html)
+
+*   ### [纵置后驱2.3T+10AT 新款福特探险者售30.98万起](https://www.163.com/auto/article/L15OBRAL0008856R.html)
+
+*   ### [纯大5座布局/高速NOA 2026款全新揽巡家用商务全拿捏](https://www.163.com/v/video/VK07B0U5S.html)
+
+[](javascript:;)
+
+## 态度原创
+
+*   ### [_上流_ | 强烈建议，全国高校都向这所大学看齐！](https://www.163.com/dy/article/L0OQTG9U0521DCLG.html)
+
+*   ### [_why星人_ | 小伙提父亲脑袋申冤，我助他解困](https://www.163.com/v/video/VCT3AMB8J.html)
+
+*   ### [_后厂村体工队_ | 世界杯最火门将，站到了阿根廷和梅西面前](https://www.163.com/sports/article/L0E94TPP00058781.html)
+
+*   ### [_城市印象_ | 国内足球之旅？这座小城给你高分答案](https://www.163.com/v/video/VI0092SK2.html)
+
+[](javascript:;)
+
+[亲子](https://baby.163.com/)
+
+[旅游](https://travel.163.com/)
+
+[本地](https://bj.news.163.com/)
+
+[时尚](https://fashion.163.com/)
+
+[公开课](https://open.163.com/)
+
+## [亲子要闻](https://baby.163.com/)
+
+[![Image 80](https://nimg.ws.126.net/?url=http://videoimg.ws.126.net/cover/20260707/j7qfTpVJe_cover.jpg&thumbnail=300x150&quality=90&type=jpg) ### 过敏孩子的心理阴影，家长知道吗？](https://www.163.com/v/video/VT0993Q9F.html)
+
+*   ### [这些夏季常用药，别要再胡乱给孩子用了！](https://www.163.com/v/video/VF098ROD5.html)
+
+*   ### [爸爸带孩子说的最多的是坚强，而妈妈看到孩子说了最多的是安全！](https://www.163.com/v/video/VU093O1FL.html)
+
+*   ### [2岁女童吃隔夜冰西瓜高烧便血、小伙吃剩饭肝衰竭？“冰箱病”比想象中更普遍？](https://www.163.com/dy/article/L16N1D3S0524AOBI.html)
+
+*   ### [小卷毛在幼儿园三岁生日的视频来喽！ 晚上和爸妈三人聚餐庆祝](https://www.163.com/v/video/VF00KC7J9.html)
+
+## [旅游要闻](https://travel.163.com/)
+
+[![Image 81](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little87310fcc854j00thsht000e9d001bf00zkg.jpg&thumbnail=300x150&quality=90&type=jpg) ### 揭秘北京动物园大熊猫新馆，四个主题区再现大熊猫自然生活环境](https://www.163.com/dy/article/L185G0J70512D3VJ.html)
+
+*   ### [环江分龙节：民俗联袂赛事 文体旅融合玩出精彩](https://www.163.com/dy/article/L184TNOD0530QRMB.html)
+
+*   ### [解锁夏夜全新游玩方式！济南野生动物世界夜间动物园开放](https://www.163.com/dy/article/L184BJLR0530WJIN.html)
+
+*   ### [今日大明湖，纳凉好去处](https://www.163.com/dy/article/L183593F0530WJIN.html)
+
+## [本地新闻](https://bj.news.163.com/)
+
+[![Image 82](https://nimg.ws.126.net/?url=http://cms-bucket.ws.126.net/2026/0703/e0ea5d87j00thlcdo0083c0009c0070c.jpg&thumbnail=300x150&quality=90&type=jpg) ### 国内足球之旅？这座小城给你高分答案](https://www.163.com/v/video/VI0092SK2.html)
+
+*   ### [这场穿越酉阳的光影之旅，张张都是壁纸！](http://chongqing.163.com/26/0702/10/L0QTVVB5042199EF.html)
+
+*   ### [强烈建议，全国高校都向这所大学看齐！](https://www.163.com/dy/article/L0OQTG9U0521DCLG.html)
+
+*   ### [“深圳队”出战世界杯](https://www.163.com/v/video/VIVR0DN20.html)
+
+[![Image 83](https://nimg.ws.126.net/?url=http://bjnewsrec-cv.ws.126.net/little645be9f8193j00thrcvr018qd200u00140g00u00140.jpg&thumbnail=300x150&quality=90&type=jpg) ### “全世界最美的女人”终于嫁了！这是属于她的Love Story](https://www.163.com/dy/article/L16IGL1F0518DCRR.html)
+
+*   ### [提升夏日穿搭品味的方法，这3种很加分！](https://www.163.com/dy/article/L16GLDU605389WHM.html)
+
+*   ### [5元一条，偷拍女性已经产业化了](https://www.163.com/dy/article/L1686E8B0518AFNU.html)
+
+*   ### [夏天衣服别总是穿黑色和白色，蓝色上衣一上身，视觉直降5度](https://www.163.com/dy/article/L0UC04O505389724.html)
+
+## [公开课](https://open.163.com/)
+
+### [李玫瑾：为什么性格比能力更重要？](https://open.163.com/newview/movie/free?pid=EHHGVM7FA&mid=KIAL4QM5K)
+
+*   ### [白岩松谈人口老龄化：社会要降低老年人门槛](https://open.163.com/newview/movie/free?pid=QG36DFKM1&mid=UG36DFKMI)
+
+*   ### [为什么人类有不同的肤色？](https://open.163.com/newview/movie/free?pid=AICUHKKK6&mid=KICUHKKL9#share-mob)
+
+*   ### [布洛芬是怎么给人止痛的？](https://open.163.com/newview/movie/free?pid=UHOB7APPJ&mid=XHOB7APQD)
+
+*   ### [李彦宏：百度离破产30天](https://open.163.com/newview/movie/free?pid=XGIS0MSS0&mid=GGIS0MSSN)
+
+[![Image 84](https://static.ws.126.net/f2e/www/index2014/images/sprite_dw2.png)](http://www.163.com/newsapp/#f=qr)[](https://www.163.com/dy/article/KF9T6O7J0519QIKK.html#)
+
+[](javascript:;)
+
+© 1997-2026 网易公司版权所有[About NetEase](https://corp.163.com/) | [公司简介](https://corp.163.com/gb/about/overview.html) | [联系方法](https://corp.163.com/gb/contactus.html) | [招聘信息](https://corp.163.com/gb/job/job.html) | [客户服务](https://help.163.com/) | [隐私政策](https://corp.163.com/gb/legal.html) | [不良信息举报 Complaint Center](https://www.163.com/special/0077jt/tipoff.html) | [廉正举报](https://jubao.163.com/) | [侵权投诉 Reporting Infringements](https://corp.163.com/special/008397U0/reporting_infringements_dy.html?35)

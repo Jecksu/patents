@@ -1,0 +1,529 @@
+Title: 一种基于关键点匹配的三维cad模型差异分析方法
+
+URL Source: https://patents.google.com/patent/CN116433837B/zh
+
+Markdown Content:
+## CN116433837B - 一种基于关键点匹配的三维cad模型差异分析方法 - Google Patents
+
+一种基于关键点匹配的三维cad模型差异分析方法 [Download PDF](https://patentimages.storage.googleapis.com/ff/76/96/a99e9b6cdd0cdd/CN116433837B.pdf)
+## Info
+
+Publication number CN116433837B CN116433837B CN202310337386.4A CN202310337386A CN116433837B CN 116433837 B CN116433837 B CN 116433837B CN 202310337386 A CN202310337386 A CN 202310337386A CN 116433837 B CN116433837 B CN 116433837B Authority CN China Prior art keywords matching model models point control points Prior art date 2023-03-31 Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)Active Application number CN202310337386.4A Other languages[English (en)](https://patents.google.com/patent/CN116433837B/en)Other versions[CN116433837A (zh](https://patents.google.com/patent/CN116433837A/zh)Inventor 程锦 吕昊 胡伟飞 刘振宇 谭建荣 Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) Zhejiang University ZJU Original Assignee Zhejiang University ZJU Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)2023-03-31 Filing date 2023-03-31 Publication date 2023-09-12 2023-03-31 Application filed by Zhejiang University ZJU filed Critical Zhejiang University ZJU 2023-03-31 Priority to CN202310337386.4A priority Critical patent/CN116433837B/zh 2023-07-14 Publication of CN116433837A publication Critical patent/CN116433837A/zh 2023-09-12 Application granted granted Critical 2023-09-12 Publication of CN116433837B publication Critical patent/CN116433837B/zh 2023-11-07 Priority to US18/503,188 priority patent/US12118278B1/en Status Active legal-status Critical Current 2043-03-31 Anticipated expiration legal-status Critical
+## Links
+
+*   [Espacenet](https://worldwide.espacenet.com/publicationDetails/biblio?CC=CN&NR=116433837B&KC=B&FT=D)
+*   [Global Dossier](https://globaldossier.uspto.gov/result/application/CN/202310337386/1)
+*   [Discuss](https://patents.stackexchange.com/questions/tagged/CN116433837B)
+
+## Classifications
+
+*       *   G—PHYSICS
+    *   G06—COMPUTING OR CALCULATING; COUNTING
+    *   G06T—IMAGE DATA PROCESSING OR GENERATION, IN GENERAL
+    *   G06T17/00—Three-dimensional [3D] modelling for computer graphics
+
+*       *   G—PHYSICS
+    *   G06—COMPUTING OR CALCULATING; COUNTING
+    *   G06F—ELECTRIC DIGITAL DATA PROCESSING
+    *   G06F30/00—Computer-aided design [CAD]
+    *   G06F30/10—Geometric CAD
+    *   G06F30/12—Geometric CAD characterised by design entry means specially adapted for CAD, e.g. graphical user interfaces [GUI] specially adapted for CAD
+
+*       *   G—PHYSICS
+    *   G06—COMPUTING OR CALCULATING; COUNTING
+    *   G06F—ELECTRIC DIGITAL DATA PROCESSING
+    *   G06F30/00—Computer-aided design [CAD]
+
+*       *   G—PHYSICS
+    *   G06—COMPUTING OR CALCULATING; COUNTING
+    *   G06F—ELECTRIC DIGITAL DATA PROCESSING
+    *   G06F30/00—Computer-aided design [CAD]
+    *   G06F30/20—Design optimisation, verification or simulation
+
+*       *   G—PHYSICS
+    *   G06—COMPUTING OR CALCULATING; COUNTING
+    *   G06V—IMAGE OR VIDEO RECOGNITION OR UNDERSTANDING
+    *   G06V10/00—Arrangements for image or video recognition or understanding
+    *   G06V10/70—Arrangements for image or video recognition or understanding using pattern recognition or machine learning
+    *   G06V10/74—Image or video pattern matching; Proximity measures in feature spaces
+    *   G06V10/761—Proximity, similarity or dissimilarity measures
+
+## Landscapes
+
+*   Engineering & Computer Science (AREA) 
+*   Physics & Mathematics (AREA) 
+*   Theoretical Computer Science (AREA) 
+*   Geometry (AREA) 
+*   General Physics & Mathematics (AREA) 
+*   Evolutionary Computation (AREA) 
+*   Computer Hardware Design (AREA) 
+*   General Engineering & Computer Science (AREA) 
+*   Mathematical Optimization (AREA) 
+*   Human Computer Interaction (AREA) 
+*   Computational Mathematics (AREA) 
+*   Mathematical Analysis (AREA) 
+*   Architecture (AREA) 
+*   Pure & Applied Mathematics (AREA) 
+*   Software Systems (AREA) 
+*   Computer Vision & Pattern Recognition (AREA) 
+*   Health & Medical Sciences (AREA) 
+*   Artificial Intelligence (AREA) 
+*   Computing Systems (AREA) 
+*   Databases & Information Systems (AREA) 
+*   General Health & Medical Sciences (AREA) 
+*   Medical Informatics (AREA) 
+*   Multimedia (AREA) 
+*   Computer Graphics (AREA) 
+*   Processing Or Creating Images (AREA) 
+
+## Abstract
+
+本发明公开了一种基于关键点匹配的三维CAD模型差异分析方法，该方法首先将三维CAD模型转化为关键点表示，然后引入图表示和图匹配方法建立两模型间顶点的预匹配，并通过误匹配消除方法得到两模型间的刚体变换参数，之后利用刚体变换检验建立关键点的匹配关系，得到关键点匹配序列后进行逐级比较，从而识别顶点、边、面和实体模型的差异，能够快速、准确识别三维CAD模型间的差异。
+
+## Description
+
+一种基于关键点匹配的三维CAD模型差异分析方法
+技术领域
+
+本发明涉及三维CAD模型差异分析领域，尤其涉及一种基于关键点匹配的三维CAD模型差异分析方法。
+
+背景技术
+
+CAD技术在数字化设计和智能生产中有着广泛应用，在产品从初始版本到最终版本的迭代中需要对三维CAD模型进行不断的修改和优化，准确快速地识别不同版本之间CAD模型的变化对保证生产效率和产品质量至关重要。同时，三维CAD模型的差异识别技术在模型检索与重用、产品信息管理、产品数据交换中也有着广泛应用。然而，现有的CAD模型差异分析技术要求模型使用同一种建模方式创建，且无法识别处于不同空间位置的模型，不具有通用性。
+
+发明内容
+
+本发明的目的在于针对现有的三维CAD模型的差异识别技术通用性、鲁棒性不强的问题，提供一种基于关键点匹配的三维CAD模型差异分析方法，该方法首先将三维CAD模型转化为关键点表示，然后引入图表示和图匹配方法建立两模型间顶点的预匹配，并通过误匹配消除方法得到两模型间的刚体变换参数，之后利用刚体变换检验建立关键点的匹配关系，得到关键点匹配序列后进行逐级比较，从而识别边、面和实体模型的差异，能够快速、准确识别三维CAD模型间的差异。
+
+本发明的目的是通过以下技术方案来实现的：一种基于关键点匹配的三维CAD模型差异分析方法，该方法包括以下步骤：
+
+S1：将待比较的两个三维CAD模型转化为STP格式；
+
+S2：从三维CAD模型中提取顶点、边控制点、面控制点三类关键点；
+
+从模型中提取边的交点作为顶点，并记录顶点的三维坐标；
+
+将模型的边转化为非均匀有理B样条曲线(NURBS，Non-Uniform Rational B-Spline)形式，从各边中提取的除顶点外的所有NURBS控制点作为模型的边控制点，并记录其三维坐标和权重；
+
+将模型的面转化为NURBS形式，从各面中提取的除顶点外的所有NURBS控制点作为模型的面控制点，并记录其三维坐标和权重；
+
+S3：将三维CAD模型转化为图表达形式以进行顶点预匹配，模型的每个面对应图的一个节点，若模型中的两个面共边，则这两个面在图中对应的两个节点间存在一个连接边，对应两面的公共边，否则两个节点间不存在连接边；
+
+S4：计算两图节点间和连接边间的相似度，包括如下子步骤：
+
+S4.1：在节点对应的模型面上利用NURBS公式进行均匀采样，即：
+
+其中 为第i个节点G i 的采样点集，n＝1,...,N 1×N 1，N 1 为采样数，S i(u,v)为节点G i 对应的模型面S i 上利用NURBS公式得到的采样点；
+
+在连接边对应的模型边上利用NURBS公式进行均匀采样，即：
+
+其中 为第i,j个节点间连接边G ij 的采样点集，m＝1,...,N 2，N 2 为采样数，C ij(u)为连接边G ij 对应的模型边C ij 上利用NURBS公式得到的采样点；
+
+S4.2：基于刚体变换计算两点集的平均匹配距离误差，对任意点数相同的两点集{p k}和{q k}，寻找最优刚体变换：
+
+其中K为点集中的点数，R*和T*为最优旋转矩阵和最优平移矩阵，p k,q k 分别为两点集{p k},{q k}中第k对点的三维坐标，解得：
+
+其中 U和V是协方差矩阵S c 的奇异值分解，协方差矩阵S c＝XY T，其中X,Y分别由列向量 和 组成，k＝1,2,...,K；
+
+求得最优旋转矩阵和最优平移矩阵后，计算平均匹配距离误差为：
+
+S4.3：基于两点集的平均匹配距离误差，分别计算节点间相似度和连接边间相似度；
+
+两图G,G'中的两节点G i,G'i'的相似度为：
+
+其中 为图G中节点G i 的采样点集，为图G'中节点G'i'的采样点集；
+
+两图G,G'中的两连接边G ij,G'i'j'的相似度为：
+
+其中 为图G中连接边G ij 的采样点集，为图G'中连接边G'i'j'的采样点集；
+
+S5：利用图匹配方法对两模型的顶点进行预匹配，定义两图G,G'的匹配矩阵M，其元素m ii'在图G的节点G i 和图G'的节点G'i'匹配时为1，否则为0；寻找使总相似度最大的最优匹配矩阵M*：
+
+使用投影不动点迭代法求解M*，得到两图的节点匹配结果，图中匹配的两节点在模型中对应的面即为预匹配的面，当两模型中的两边所邻接的面均为预匹配的面时，这两条边为预匹配的边，同样地，当两模型中的两顶点所邻接的边均为预匹配的边时，这两个顶点为预匹配的顶点；
+
+S6：通过误匹配消除方法计算模型间刚体变换关系，给定最大允许误差ε，计算预匹配顶点集的平均匹配距离误差，若其小于最大允许误差ε，则此时的最优旋转矩阵和最优平移矩阵即为模型间的刚体变换参数R M 和T M；否则，分别计算每对预匹配顶点的匹配距离误差：
+
+E k({p k}，{q k})＝||(R*·p k+T*)-q k||
+
+其中E k({p k},{q k})为点集{p k},{q k}中第k对预匹配顶点的匹配距离误差，p k,q k 为点集{p k},{q k}中第k对预匹配顶点的三维坐标；
+
+在预匹配顶点集中剔除匹配距离误差最大的顶点对后重新计算其平均匹配距离误差并与最大允许误差ε进行比对，直至求出模型间的刚体变换参数R M 和T M；
+
+S7：匹配顶点、边控制点和面控制点三类关键点，将所求得的刚体变换参数R M 和T M 代入两模型的每两个顶点，计算匹配误差：
+
+其中 为两模型顶点集 和 第i,i'个顶点的三维坐标；若求得的匹配误差 小于最大允许误差ε，则对应的两顶点为匹配的顶点；
+
+将R M 和T M 代入每对边控制点，并分别计算每对边控制点的匹配误差：
+
+其中 为两模型边控制点集 和 第i,i'个边控制点的三维坐标，w为相应控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两边控制点为匹配的边控制点；
+
+将R M 和T M 代入每对面控制点，并分别计算每对面控制点的匹配误差：
+
+其中 为两模型面控制点集 和 第i,i'个面控制点的三维坐标，w为相应控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两面控制点为匹配的面控制点；
+
+S8：逐层判断三维CAD模型差异，对两模型的每两条边，若其包含的顶点和边控制点均一一匹配，则这两条边视为相同边，否则视为差异边；对两模型中每两个面，若其包含的面控制点均一一匹配，且其组成边均为相同边，则这两个面视为相同面，否则视为差异面；若两模型的所有面均为相同面，则两模型为相同的模型，否则两模型间存在差异。
+
+进一步地，所述S2中，边控制点的获取方法具体为：
+
+将模型的边转化为NURBS形式，对边所在的曲线 有：
+
+其中u为自变量，n为B样条曲线的控制点个数，k为B样条曲线的阶次，N i,k(u)为第i个k阶B样条基函数，为第i个控制点的三维坐标，w i 为第i个控制点对应的权重；从各边中提取的除顶点外的所有NURBS控制点作为模型的边控制点，并记录其三维坐标和权重。
+
+进一步地，所述S2中，面控制点的获取方法具体为：
+
+将模型的面转化为NURBS形式，对面所在的曲面 有：
+
+其中u,v为自变量，n,m为B样条曲线两个维度的控制点个数，k,l为B样条曲线两个维度的阶次，N i,k(u)为第i个k阶B样条基函数，N j,l(v)为第j个l阶B样条基函数，为在位置(i,j)处的控制点的三维坐标，w i,j 为在位置(i,j)处的控制点对应的权重；从各面中提取的除顶点外的所有NURBS控制点作为模型的面控制点，并记录其三维坐标和权重。
+
+进一步地，在得到三维CAD模型差异分析结果后，采用Opencascade平台搭建三维CAD模型差异分析展示界面，显示待比对的两个三维CAD模型，并将其中所有的差异面高亮显示。
+
+本发明的有益效果是，本发明可以在考虑建模误差的情况下，快速、准确地识别处于不同姿态下的三维CAD模型间的差异，并给出直观的差异分析结果。
+
+附图说明
+
+下面结合附图和实施例对本发明进一步说明；
+
+图1是本发明方法的流程图。
+
+图2是两个待比较的三维CAD模型实例。
+
+图3是从三维CAD模型中提取关键点示意图。
+
+图4是通过图表示和图匹配对三维CAD模型的顶点、边和面进行预匹配的示意图。
+
+图5是基于关键点匹配序列对三维CAD模型的边和面进行逐级比较的示意图。
+
+图6是三维CAD模型差异分析实例的比较结果。
+
+具体实施方式
+
+下面根据附图和优选实施例详细描述本发明，本发明的目的和效果将变得更加明白，应当理解，此处所描述的具体实施例仅仅用以解释本发明，并不用于限定本发明。
+
+本发明提出的基于关键点匹配的三维CAD模型差异分析方法，首先将三维CAD模型转化为关键点表示，然后引入图表示和图匹配方法建立两模型间顶点的预匹配，并通过误匹配消除方法得到两模型间的刚体变换参数，之后利用刚体变换检验建立关键点的匹配关系，得到关键点匹配序列后进行逐级比较，从而识别边、面和实体模型的差异。该方法流程图如图1所示，具体包括如下步骤：
+
+S1：将待比较的两个三维CAD模型转化为STP格式；
+
+S2：从三维CAD模型中提取顶点、边控制点、面控制点三类控制点；
+
+从模型中提取边的交点作为顶点，并记录顶点的三维坐标；
+
+将模型的边转化为NURBS形式，对边所在的曲线 有：
+
+其中u为自变量，n为B样条曲线的控制点个数，k为B样条曲线的阶次，N i,k(u)为第i个k阶B样条基函数，为第i个控制点的三维坐标，w i 为第i个控制点对应的权重；从各边中提取的除顶点外的所有NURBS控制点作为模型的边控制点，并记录其三维坐标和权重。
+
+将模型的面转化为NURBS形式，对面所在的曲面 有：
+
+其中u,v为自变量，n,m为B样条曲线两个维度的控制点个数，k,l为B样条曲线两个维度的阶次，N i,k(u)为第i个k阶B样条基函数，N j,l(v)为第j个l阶B样条基函数，为在位置(i,j)处的控制点的三维坐标，w i,j 为在位置(i,j)处的控制点对应的权重；从各面中提取的除顶点外的所有NURBS控制点作为模型的面控制点，并记录其三维坐标和权重。
+
+S3：将三维CAD模型转化为图表达形式以进行顶点预匹配，模型的每个面对应图的一个节点，若模型中的两个面共边，则这两个面在图中对应的两个节点间存在一个连接边，对应两面的公共边，否则两个节点间不存在连接边；
+
+S4：计算两图节点间和连接边间的相似度，包括如下子步骤：
+
+S4.1：在节点对应的模型面上利用NURBS公式进行均匀采样，即：
+
+其中 为第i个节点G i 的采样点集，n＝1,...,N 1×N 1，N 1 为采样数，S i(u,v)为节点G i 对应的模型面S i 上利用NURBS公式得到的采样点；
+
+在连接边对应的模型边上利用NURBS公式进行均匀采样，即：
+
+其中 为第i,j个节点间连接边G ij 的采样点集，m＝1,...,N 2，N 2 为采样数，C ij(u)为连接边G ij 对应的模型边C ij 上利用NURBS公式得到的采样点；
+
+S4.2：基于刚体变换计算两点集的平均匹配距离误差，对任意点数相同的两点集{p k}和{q k}，可寻找最优刚体变换：
+
+其中K为点集中的点数，R*和T*为最优旋转矩阵和最优平移矩阵，p k,q k 分别为两点集{p k},{q k}中第k对点的三维坐标，可解得：
+
+其中 U和V是协方差矩阵S c 的奇异值分解，协方差矩阵S c＝XY T，其中X,Y分别由列向量 和 组成，k＝1,2,...,K；
+
+求得最优旋转矩阵和最优平移矩阵后，计算平均匹配距离误差为：
+
+S4.3：基于两点集的平均匹配距离误差，分别计算节点间相似度和连接边间相似度；
+
+两图G,G'中的两节点G i,G'i'的相似度为：
+
+其中 为图G中节点G i 的采样点集，为图G'中节点G'i'的采样点集；
+
+两图G,G'中的两连接边G ij,G'i'j'的相似度为：
+
+其中 为图G中连接边G ij 的采样点集，为图G'中连接边G'i'j'的采样点集；
+
+S5：利用图匹配方法对两模型的顶点进行预匹配，定义两图G,G'的匹配矩阵M，其元素m ii'在图G的节点G i 和图G'的节点G'i'匹配时为1，否则为0；寻找使总相似度最大的最优匹配矩阵M*：
+
+使用投影不动点迭代法求解M*，得到两图的节点匹配结果，图中匹配的两节点在模型中对应的面即为预匹配的面，当两模型中的两边所邻接的面均为预匹配的面时，这两条边为预匹配的边，同样地，当两模型中的两顶点所邻接的边均为预匹配的边时，这两个顶点为预匹配的顶点；
+
+S6：通过误匹配消除方法计算模型间刚体变换关系，给定最大允许误差ε，计算预匹配顶点集的平均匹配距离误差，若其小于最大允许误差ε，则此时的最优旋转矩阵和最优平移矩阵即为模型间的刚体变换参数R M 和T M；否则，分别计算每对预匹配顶点的匹配距离误差：
+
+E k({p k},{q k})＝||(R*·p k+T*)-q k||
+
+其中E k({p k},{q k})为点集{p k},{q k}中第k对预匹配顶点的匹配距离误差，p k,q k 为点集{p k},{q k}中第k对预匹配顶点的三维坐标；
+
+在预匹配顶点集中剔除匹配距离误差最大的顶点对后重新计算其平均匹配距离误差并与最大允许误差ε进行比对，直至求出模型间的刚体变换参数R M 和T M；
+
+S7：匹配顶点、边控制点和面控制点三类关键点，将所求得的刚体变换参数R M 和T M 代入两模型的每两个顶点，计算匹配误差：
+
+其中 为两模型顶点集 和 第i,i'个顶点的三维坐标；若求得的匹配误差 小于最大允许误差ε，则对应的两顶点为匹配的顶点；
+
+将R M 和T M 代入每对边控制点，并分别计算每对边控制点的匹配误差：
+
+其中 为两模型边控制点集 和 第i,i'个边控制点的三维坐标，w为控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两边控制点为匹配的边控制点；
+
+将R M 和T M 代入每对面控制点，并分别计算每对面控制点的匹配误差：
+
+其中 为两模型面控制点集 和 第i,i'个面控制点的三维坐标，w为控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两面控制点为匹配的面控制点；
+
+S8：逐层判断三维CAD模型差异，对两模型的每两条边，若其包含的顶点和边控制点均一一匹配，则这两条边视为相同边，否则视为差异边；对两模型中每两个面，若其包含的面控制点均一一匹配，且其组成边均为相同边，则这两个面视为相同面，否则视为差异面；若两模型的所有面均为相同面，则两模型为相同的模型，否则两模型间存在差异；
+
+S9：显示匹配结果，采用Opencascade平台搭建三维CAD模型差异分析展示界面，显示待比对的两个三维CAD模型，并将其中所有的差异面高亮显示。
+
+下面针对具体的实施例对本发明的方法进行描述。
+
+选择具体的两个三维CAD模型进行差异分析，如图2所示，待比较的两个模型为具有开孔和开槽的毛坯件，其中模型A开槽形状为梯形槽，模型B开槽形状为矩形槽，除此之外两模型间没有其他差异；
+
+S1：将待比较的两个三维CAD模型转化为STP格式；
+
+S2：分别从两模型中提取关键点，图3为模型A的关键点示意图，两个模型都由两个圆柱面和11个平面组成，都有22个顶点，22个边控制点和22个面控制点；
+
+S3：将三维CAD模型转化为图表达形式，如图4所示，图的每一个顶点对应原模型中的一个面，顶点间的每一个连接对应原模型中两面的公共边；
+
+S4：计算两图节点间和连接边间的相似度；
+
+S5：使用投影不动点迭代法(IPFP，integer projected fixed point method)得到图匹配结果，将图匹配结果对应回原CAD模型，如图4所示，得到预匹配的面、边和顶点；
+
+S6：通过误匹配消除方法计算模型间刚体变换关系，给定最大允许误差ε，计算预匹配的顶点集的平均匹配距离误差大于最大允许误差，因此剔除匹配距离误差后再次计算迭代，直到平均匹配距离误差小于最大允许误差，并求出模型间的刚体变换参数
+
+S7：匹配顶点、边控制点和面控制点，将求得的刚体变换参数R M 和T M 代入每对顶点、边控制点和面控制点，计算其匹配误差，共匹配14个顶点、22对边控制点和22对面控制点；
+
+S8：对两三维CAD模型逐级比较，图5为模型A的组成层级图，在比较两模型的边时，若其包含的全部顶点和边控制点均一一匹配，则这两条边视为相同边，否则视为差异边；两模型共有17条相同边，10条差异边；在比较两模型的面时，若其包含的全部边均为相同边，且其包含的全部面控制点均一一匹配，则这两个面视为相同面，否则视为差异面；两模型共有8个相同面，5个差异面；由于两模型存在差异面，因此两模型为有差异的模型；
+
+S9：将比对结果输出，如图6所示，在软件界面中展示两三维CAD模型，并高亮展示具有差异的面；
+
+本领域普通技术人员可以理解，以上所述仅为发明的优选实例而已，并不用于限制发明，尽管参照前述实例对发明进行了详细的说明，对于本领域的技术人员来说，其依然可以对前述各实例记载的技术方案进行修改，或者对其中部分技术特征进行等同替换。凡在发明的精神和原则之内，所做的修改、等同替换等均应包含在发明的保护范围之内。
+
+## Claims (4)
+
+1.一种基于关键点匹配的三维CAD模型差异分析方法，其特征在于，包括如下步骤：
+
+S1：将待比较的两个三维CAD模型转化为STP格式；
+
+S2：从三维CAD模型中提取顶点、边控制点、面控制点三类关键点；
+
+从模型中提取边的交点作为顶点，并记录顶点的三维坐标；
+
+将模型的边转化为非均匀有理B样条曲线NURBS形式，从各边中提取的除顶点外的所有NURBS控制点作为模型的边控制点，并记录其三维坐标和权重；
+
+将模型的面转化为NURBS形式，从各面中提取的除顶点外的所有NURBS控制点作为模型的面控制点，并记录其三维坐标和权重；
+
+S3：将三维CAD模型转化为图表达形式以进行顶点预匹配，模型的每个面对应图的一个节点，若模型中的两个面共边，则这两个面在图中对应的两个节点间存在一个连接边，对应两面的公共边，否则两个节点间不存在连接边；
+
+S4：计算两图节点间和连接边间的相似度，包括如下子步骤：
+
+S4.1：在节点对应的模型面上利用NURBS公式进行均匀采样，即：
+
+其中 为第i个节点G i 的采样点集，n＝1,...,N 1×N 1，N 1 为采样数，S i(u,v)为节点G i 对应的模型面S i 上利用NURBS公式得到的采样点；
+
+在连接边对应的模型边上利用NURBS公式进行均匀采样，即：
+
+其中 为第i,j个节点间连接边G ij 的采样点集，m＝1,...,N 2，N 2 为采样数，C ij(u)为连接边G ij 对应的模型边C ij 上利用NURBS公式得到的采样点；
+
+S4.2：基于刚体变换计算两点集的平均匹配距离误差，对任意点数相同的两点集{p k}和{q k}，寻找最优刚体变换：
+
+其中K为点集中的点数，R*和T*为最优旋转矩阵和最优平移矩阵，p k,q k 分别为两点集{p k},{q k}中第k对点的三维坐标，解得：
+
+其中 U和V是协方差矩阵S c 的奇异值分解，协方差矩阵S c＝XY T，其中X,Y分别由列向量 和 组成，k＝1,2,...,K；
+
+求得最优旋转矩阵和最优平移矩阵后，计算平均匹配距离误差为：
+
+S4.3：基于两点集的平均匹配距离误差，分别计算节点间相似度和连接边间相似度；
+
+两图G,G'中的两节点G i,G'i'的相似度为：
+
+其中 为图G中节点G i 的采样点集，为图G'中节点G'i'的采样点集；
+
+两图G,G'中的两连接边G ij,G'i'j'的相似度为：
+
+其中 为图G中连接边G ij 的采样点集，为图G'中连接边G'i'j'的采样点集；
+
+S5：利用图匹配方法对两模型的顶点进行预匹配，定义两图G,G'的匹配矩阵M，其元素m ii'在图G的节点G i 和图G'的节点G'i'匹配时为1，否则为0；寻找使总相似度最大的最优匹配矩阵M*：
+
+使用投影不动点迭代法求解M*，得到两图的节点匹配结果，图中匹配的两节点在模型中对应的面即为预匹配的面，当两模型中的两边所邻接的面均为预匹配的面时，这两条边为预匹配的边，同样地，当两模型中的两顶点所邻接的边均为预匹配的边时，这两个顶点为预匹配的顶点；
+
+S6：通过误匹配消除方法计算模型间刚体变换关系，给定最大允许误差ε，计算预匹配顶点集的平均匹配距离误差，若其小于最大允许误差ε，则此时的最优旋转矩阵和最优平移矩阵即为模型间的刚体变换参数R M 和T M；否则，分别计算每对预匹配顶点的匹配距离误差：
+
+E k({p k},{q k})＝||(R*·p k+T*)-q k||
+
+其中E k({p k},{q k})为点集{p k},{q k}中第k对预匹配顶点的匹配距离误差，p k,q k 为点集{p k},{q k}中第k对预匹配顶点的三维坐标；
+
+在预匹配顶点集中剔除匹配距离误差最大的顶点对后重新计算其平均匹配距离误差并与最大允许误差ε进行比对，直至求出模型间的刚体变换参数R M 和T M；
+
+S7：匹配顶点、边控制点和面控制点三类关键点，将所求得的刚体变换参数R M 和T M 代入两模型的每两个顶点，计算匹配误差：
+
+其中 为两模型顶点集 和 第i,i'个顶点的三维坐标；若求得的匹配误差 小于最大允许误差ε，则对应的两顶点为匹配的顶点；
+
+将R M 和T M 代入每对边控制点，并分别计算每对边控制点的匹配误差：
+
+其中 为两模型边控制点集 和 第i,i'个边控制点的三维坐标，w为相应控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两边控制点为匹配的边控制点；
+
+将R M 和T M 代入每对面控制点，并分别计算每对面控制点的匹配误差：
+
+其中 为两模型面控制点集 和 第i,i'个面控制点的三维坐标，w为相应控制点的权重值；若求得的匹配误差 小于最大允许误差ε，则对应的两面控制点为匹配的面控制点；
+
+S8：逐层判断三维CAD模型差异，对两模型的每两条边，若其包含的顶点和边控制点均一一匹配，则这两条边视为相同边，否则视为差异边；对两模型中每两个面，若其包含的面控制点均一一匹配，且其组成边均为相同边，则这两个面视为相同面，否则视为差异面；若两模型的所有面均为相同面，则两模型为相同的模型，否则两模型间存在差异。
+
+2.根据权利要求1所述的一种基于关键点匹配的三维CAD模型差异分析方法，其特征在于，所述S2中，边控制点的获取方法具体为：
+
+将模型的边转化为NURBS形式，对边所在的曲线 有：
+
+其中u为自变量，n为B样条曲线的控制点个数，k为B样条曲线的阶次，N i,k(u)为第i个k阶B样条基函数，为第i个控制点的三维坐标，w i 为第i个控制点对应的权重；从各边中提取的除顶点外的所有NURBS控制点作为模型的边控制点，并记录其三维坐标和权重。
+
+3.根据权利要求1所述的一种基于关键点匹配的三维CAD模型差异分析方法，其特征在于，所述S2中，面控制点的获取方法具体为：
+
+将模型的面转化为NURBS形式，对面所在的曲面 有：
+
+其中u,v为自变量，n,m为B样条曲线两个维度的控制点个数，k,l为B样条曲线两个维度的阶次，N i,k(u)为第i个k阶B样条基函数，N j,l(v)为第j个l阶B样条基函数，为在位置(i,j)处的控制点的三维坐标，w i,j 为在位置(i,j)处的控制点对应的权重；从各面中提取的除顶点外的所有NURBS控制点作为模型的面控制点，并记录其三维坐标和权重。
+
+4.根据权利要求1所述的一种基于关键点匹配的三维CAD模型差异分析方法，其特征在于，在得到三维CAD模型差异分析结果后，采用Opencascade平台搭建三维CAD模型差异分析展示界面，显示待比对的两个三维CAD模型，并将其中所有的差异面高亮显示。
+
+CN202310337386.4A 2023-03-31 2023-03-31 一种基于关键点匹配的三维cad模型差异分析方法 Active[CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh)
+## Priority Applications (2)
+
+| Application Number | Priority Date | Filing Date | Title |
+| --- | --- | --- | --- |
+| CN202310337386.4A[CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) | 2023-03-31 | 2023-03-31 | 一种基于关键点匹配的三维cad模型差异分析方法 |
+| US18/503,188[US12118278B1 (en)](https://patents.google.com/patent/US12118278B1/en) | 2023-03-31 | 2023-11-07 | Difference analysis method for 3D cad models based on key-point matching |
+
+## Applications Claiming Priority (1)
+
+| Application Number | Priority Date | Filing Date | Title |
+| --- | --- | --- | --- |
+| CN202310337386.4A[CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) | 2023-03-31 | 2023-03-31 | 一种基于关键点匹配的三维cad模型差异分析方法 |
+
+## Publications (2)
+
+| Publication Number | Publication Date |
+| --- | --- |
+| CN116433837A[CN116433837A (zh)](https://patents.google.com/patent/CN116433837A/zh) | 2023-07-14 |
+| CN116433837B true[CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) | 2023-09-12 |
+
+## Family
+
+## ID=87093798
+
+## Family Applications (1)
+
+| Application Number | Title | Priority Date | Filing Date |
+| --- | --- | --- | --- |
+| CN202310337386.4A Active[CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) | 2023-03-31 | 2023-03-31 | 一种基于关键点匹配的三维cad模型差异分析方法 |
+
+## Country Status (2)
+
+| Country | Link |
+| --- | --- |
+| US (1) | [US12118278B1 (zh)](https://patents.google.com/patent/US12118278B1/zh) |
+| CN (1) | [CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) |
+
+## Families Citing this family (1)
+
+* Cited by examiner, † Cited by third party
+| Publication number | Priority date | Publication date | Assignee | Title |
+| --- | --- | --- | --- | --- |
+| [CN117437820A (zh)](https://patents.google.com/patent/CN117437820A/zh)* | 2023-10-24 | 2024-01-23 | 中国人民解放军国防科技大学 | 基于数字孪生的仿真手雷训练方法、系统、设备及存储介质 |
+
+## Citations (2)
+
+* Cited by examiner, † Cited by third party
+| Publication number | Priority date | Publication date | Assignee | Title |
+| --- | --- | --- | --- | --- |
+| [CN108132927A (zh)](https://patents.google.com/patent/CN108132927A/zh)* | 2017-12-07 | 2018-06-08 | 西北师范大学 | 一种融合图结构与节点关联的关键词提取方法 |
+| [CN111369607A (zh)](https://patents.google.com/patent/CN111369607A/zh)* | 2020-05-26 | 2020-07-03 | 上海建工集团股份有限公司 | 一种基于图片解析的预制构件拼装匹配方法 |
+
+## Family Cites Families (20)
+
+* Cited by examiner, † Cited by third party
+| Publication number | Priority date | Publication date | Assignee | Title |
+| --- | --- | --- | --- | --- |
+| [WO2004110309A2 (en)](https://patents.google.com/patent/WO2004110309A2/en)* | 2003-06-11 | 2004-12-23 | Case Western Reserve University | Computer-aided-design of skeletal implants |
+| [US8259101B2 (en)](https://patents.google.com/patent/US8259101B2/en)* | 2006-06-07 | 2012-09-04 | Carnegie Mellon University | Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry |
+| [US11282287B2 (en)](https://patents.google.com/patent/US11282287B2/en)* | 2012-02-24 | 2022-03-22 | Matterport, Inc. | Employing three-dimensional (3D) data predicted from two-dimensional (2D) images using neural networks for 3D modeling applications and other applications |
+| [HK1212937A1 (zh)](https://patents.google.com/patent/HK1212937A1/zh)* | 2012-09-23 | 2016-06-24 | Tyco Fire Products Lp | 灭火系统及方法 |
+| [US9472022B2 (en)](https://patents.google.com/patent/US9472022B2/en)* | 2012-10-05 | 2016-10-18 | University Of Southern California | Three-dimensional point processing and model generation |
+| [EP2808810B1 (en)](https://patents.google.com/patent/EP2808810B1/en)* | 2013-05-28 | 2017-01-11 | Dassault Systèmes | Compression and decompression of 3d modeled object |
+| [US10574974B2 (en)](https://patents.google.com/patent/US10574974B2/en)* | 2014-06-27 | 2020-02-25 | A9.Com, Inc. | 3-D model generation using multiple cameras |
+| [EP3032495B1 (en)](https://patents.google.com/patent/EP3032495B1/en)* | 2014-12-10 | 2019-11-13 | Dassault Systèmes | Texturing a 3d modeled object |
+| [US9860716B2 (en)](https://patents.google.com/patent/US9860716B2/en)* | 2015-03-31 | 2018-01-02 | Young W. Lee | Fire extinguisher tracking and navigation system |
+| [US11240056B2 (en)](https://patents.google.com/patent/US11240056B2/en)* | 2015-07-13 | 2022-02-01 | Carrier Corporation | Safety automation system |
+| [CN115840391A (zh)](https://patents.google.com/patent/CN115840391A/zh)* | 2015-07-13 | 2023-03-24 | 开利公司 | 安全自动化系统 |
+| [US10282914B1 (en)](https://patents.google.com/patent/US10282914B1/en)* | 2015-07-17 | 2019-05-07 | Bao Tran | Systems and methods for computer assisted operation |
+| [US10659768B2 (en)](https://patents.google.com/patent/US10659768B2/en)* | 2017-02-28 | 2020-05-19 | Mitsubishi Electric Research Laboratories, Inc. | System and method for virtually-augmented visual simultaneous localization and mapping |
+| [US10846444B2 (en)](https://patents.google.com/patent/US10846444B2/en)* | 2017-04-28 | 2020-11-24 | General Electric Company | Systems and methods for generating computer-aided design model views based on product and manufacturing information data |
+| [CN115311422B (zh)](https://patents.google.com/patent/CN115311422B/zh)* | 2018-06-27 | 2025-12-19 | 奈安蒂克公司 | 用于设备定位的多重集成模型 |
+| [CN110895862B (zh)](https://patents.google.com/patent/CN110895862B/zh)* | 2018-09-13 | 2023-07-04 | 开利公司 | 火灾探测系统-用于火灾探测设计框架的端对端解决方案 |
+| [CN110895723B (zh)](https://patents.google.com/patent/CN110895723B/zh)* | 2018-09-13 | 2024-12-10 | 开利公司 | 火灾探测系统-用于火灾设备的火灾智能信号发送 |
+| [US11670047B2 (en)](https://patents.google.com/patent/US11670047B2/en)* | 2019-07-02 | 2023-06-06 | Tata Consultancy Services Limited | System and method for integrating objects in monocular slam |
+| [EP3809304A1 (de)](https://patents.google.com/patent/EP3809304A1/de)* | 2019-10-18 | 2021-04-21 | Carl Zeiss Vision International GmbH | Computerimplementiertes verfahren zur ermittlung eines parametrischen ersatzmodells eines brillenfassungselements sowie vorrichtung und systeme, die ein solches verfahren benutzen |
+| [CN111832102B (zh)](https://patents.google.com/patent/CN111832102B/zh)* | 2020-06-19 | 2024-02-06 | 浙江大学 | 一种高维随机场条件下的新型复合材料结构优化设计方法 |
+
+*   2023
+    *   2023-03-31 CN CN202310337386.4A[patent/CN116433837B/zh](https://patents.google.com/patent/CN116433837B/zh)active Active
+    *   2023-11-07 US US18/503,188[patent/US12118278B1/en](https://patents.google.com/patent/US12118278B1/en)active Active
+
+## Patent Citations (2)
+
+* Cited by examiner, † Cited by third party
+| Publication number | Priority date | Publication date | Assignee | Title |
+| --- | --- | --- | --- | --- |
+| [CN108132927A (zh)](https://patents.google.com/patent/CN108132927A/zh)* | 2017-12-07 | 2018-06-08 | 西北师范大学 | 一种融合图结构与节点关联的关键词提取方法 |
+| [CN111369607A (zh)](https://patents.google.com/patent/CN111369607A/zh)* | 2020-05-26 | 2020-07-03 | 上海建工集团股份有限公司 | 一种基于图片解析的预制构件拼装匹配方法 |
+
+## Non-Patent Citations (1)
+
+* Cited by examiner, † Cited by third party
+| Title |
+| --- |
+| Hybrid Reliability-Based Design Optimization of Complex Structures With Random and Interval Uncertainties Based on ASS-HRA;JIN CHENG等;Digital Object Identifier;第第7卷卷;第87097-87109页* |
+
+## Also Published As
+
+| Publication number | Publication date |
+| --- | --- |
+| [US12118278B1 (en)](https://patents.google.com/patent/US12118278B1/en) | 2024-10-15 |
+| [US20240338501A1 (en)](https://patents.google.com/patent/US20240338501A1/en) | 2024-10-10 |
+| [CN116433837A (zh)](https://patents.google.com/patent/CN116433837A/zh) | 2023-07-14 |
+
+## Similar Documents
+
+| Publication | Publication Date | Title |
+| --- | --- | --- |
+| [Melekhov et al.](https://patents.google.com/scholar/646185457778584344) | 2019 | Dgc-net: Dense geometric correspondence network |
+| [CN114743259A (zh)](https://patents.google.com/patent/CN114743259A/zh) | 2022-07-12 | 位姿估计方法、位姿估计系统、终端、存储介质及应用 |
+| [CN117132630B (zh)](https://patents.google.com/patent/CN117132630B/zh) | 2026-01-06 | 一种基于二阶空间兼容性度量的点云配准方法 |
+| [CN112862949B (zh)](https://patents.google.com/patent/CN112862949B/zh) | 2022-08-19 | 基于多视图的物体3d形状重建方法 |
+| [JP7075654B2 (ja)](https://patents.google.com/patent/JP7075654B2/ja) | 2022-05-26 | ３次元ｃａｄモデル部分検索方法及び３次元ｃａｄモデル検索方法 |
+| [CN109241901A (zh)](https://patents.google.com/patent/CN109241901A/zh) | 2019-01-18 | 一种对具有孔洞的三维点云的检测与识别方法 |
+| [Zheng et al.](https://patents.google.com/scholar/2324142801643484207) | 2009 | An adaptive and stable method for fitting implicit polynomial curves and surfaces |
+| [CN114022542A (zh)](https://patents.google.com/patent/CN114022542A/zh) | 2022-02-08 | 一种基于三维重建的3d数据库制作方法 |
+| [CN116433837B (zh)](https://patents.google.com/patent/CN116433837B/zh) | 2023-09-12 | 一种基于关键点匹配的三维cad模型差异分析方法 |
+| [CN121145303A (zh)](https://patents.google.com/patent/CN121145303A/zh) | 2025-12-16 | 一种基于结构语义特征提取的历史建筑数字化建模方法 |
+| [CN118736099A (zh)](https://patents.google.com/patent/CN118736099A/zh) | 2024-10-01 | 大规模三维模型轻量化的重建方法和系统 |
+| [Mahmoud et al.](https://patents.google.com/scholar/2112435583370032023) | 2024 | Leveraging deep learning for automated reconstruction of indoor unstructured elements in scan-to-BIM |
+| [CN118072026A (zh)](https://patents.google.com/patent/CN118072026A/zh) | 2024-05-24 | 基于多尺度上下文的全景图像分割方法与系统 |
+| [CN120997265A (zh)](https://patents.google.com/patent/CN120997265A/zh) | 2025-11-21 | 基于改进的iss-toldi特征结合icp的点云配准方法 |
+| [CN119579693B (zh)](https://patents.google.com/patent/CN119579693B/zh) | 2025-10-03 | 基于单目相机的两阶段物体六自由度位姿估计方法 |
+| [CN120147666A (zh)](https://patents.google.com/patent/CN120147666A/zh) | 2025-06-13 | 一种顾及几何先验信息注意力计算的图像特征匹配模型 |
+| [CN112529021A (zh)](https://patents.google.com/patent/CN112529021A/zh) | 2021-03-19 | 一种基于尺度不变特征变换算法特征的航拍图像匹配方法 |
+| [CN119169626A (zh)](https://patents.google.com/patent/CN119169626A/zh) | 2024-12-20 | 一种清算收据数据识别系统及其方法 |
+| [Seibt et al.](https://patents.google.com/scholar/9364077298529798180) | 2022 | Dense feature matching based on homographic decomposition |
+| [Hua et al.](https://patents.google.com/scholar/9336031627606255679) | 2019 | Spectral geometry of shapes: principles and applications |
+| [CN117218008A (zh)](https://patents.google.com/patent/CN117218008A/zh) | 2023-12-12 | 一种针对去雨图像的多级迭代协同表示的后处理方法 |
+| [CN115564915A (zh)](https://patents.google.com/patent/CN115564915A/zh) | 2023-01-03 | 变电站环境数字化区域的地图构建方法及装置 |
+| [Chen et al.](https://patents.google.com/scholar/14360843501722849133) | 2024 | Similar image matching via global topology consensus |
+| [Xing et al.](https://patents.google.com/scholar/10211774603998373319) | 2025 | Symmetry-based point cloud repairing defect method for substation equipment |
+| [CN116740300B (zh)](https://patents.google.com/patent/CN116740300B/zh) | 2024-05-03 | 一种基于多模态的素体与纹理融合家具模型重建方法 |
+
+## Legal Events
+
+| Date | Code | Title | Description |
+| --- | --- | --- | --- |
+| 2023-07-14 | PB01 | Publication |  |
+| 2023-07-14 | PB01 | Publication |  |
+| 2023-08-01 | SE01 | Entry into force of request for substantive examination |  |
+| 2023-08-01 | SE01 | Entry into force of request for substantive examination |  |
+| 2023-09-12 | GR01 | Patent grant |  |
+| 2023-09-12 | GR01 | Patent grant |  |

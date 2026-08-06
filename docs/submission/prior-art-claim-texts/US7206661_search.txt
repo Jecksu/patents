@@ -1,0 +1,72 @@
+Title: US7206661 claims persistent naming sub-paths intermittent fillet weld beads at DuckDuckGo
+
+URL Source: https://duckduckgo.com/html/?q=US7206661%20claims%20persistent%20naming%20sub-paths%20intermittent%20fillet%20weld%20beads
+
+Markdown Content:
+[](https://duckduckgo.com/html/?q=US7206661%20claims%20persistent%20naming%20sub-paths%20intermittent%20fillet%20weld%20beads)
+
+[](https://duckduckgo.com/html/ "DuckDuckGo")
+
+## [Persistent naming for sub-paths of intermittent fillet weld beads](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7206661B2%2Fen&rut=864e93722b3d8d7710f1e028a33ddef49a7af4322de428c129ac706fb0cc014d)
+
+[![Image 1](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7206661B2%2Fen&rut=864e93722b3d8d7710f1e028a33ddef49a7af4322de428c129ac706fb0cc014d)[patents.google.com/patent/US7206661B2/en](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7206661B2%2Fen&rut=864e93722b3d8d7710f1e028a33ddef49a7af4322de428c129ac706fb0cc014d)
+
+[A computing environment is provided with the ability to at least contribute to the **persistent****naming** of the divided **sub-paths**, including their edges and vertices, of a continuous **path** of an **intermittent****fillet****weld****bead**, including the determination of an invariant **weld****bead** generation direction.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FUS7206661B2%2Fen&rut=864e93722b3d8d7710f1e028a33ddef49a7af4322de428c129ac706fb0cc014d)
+
+## [20050071042 Persistent naming for sub-paths of intermittent fillet weld ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentscope.wipo.int%2Fsearch%2Fen%2Fdetail.jsf%3FdocId%3DUS41136766&rut=d8b5ba5d66c7d9828d653e59d1692759388c4260471acdd50f84635b9950b802)
+
+[![Image 2](https://external-content.duckduckgo.com/ip3/patentscope.wipo.int.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentscope.wipo.int%2Fsearch%2Fen%2Fdetail.jsf%3FdocId%3DUS41136766&rut=d8b5ba5d66c7d9828d653e59d1692759388c4260471acdd50f84635b9950b802)[patentscope.wipo.int/search/en/detail.jsf?docId=US41136766](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentscope.wipo.int%2Fsearch%2Fen%2Fdetail.jsf%3FdocId%3DUS41136766&rut=d8b5ba5d66c7d9828d653e59d1692759388c4260471acdd50f84635b9950b802)
+
+[A computing environment is provided with the ability to at least contribute to the **persistent****naming** of the divided **sub-paths**, including their edges and vertices, of a continuous **path** of an **intermittent****fillet****weld****bead**, including the determination of an invariant **weld****bead** generation direction.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentscope.wipo.int%2Fsearch%2Fen%2Fdetail.jsf%3FdocId%3DUS41136766&rut=d8b5ba5d66c7d9828d653e59d1692759388c4260471acdd50f84635b9950b802)
+
+## [PDF (12) United States Patent (10) Patent N0.: US 7,206,661 B2 Subrahmanyam ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fpdfs%2FUS7206661.pdf&rut=f8bee1ecd76081a738000dba63cbbc112823aba440c37dd671d5af26f011af89)
+
+[![Image 3](https://external-content.duckduckgo.com/ip3/patentimages.storage.googleapis.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fpdfs%2FUS7206661.pdf&rut=f8bee1ecd76081a738000dba63cbbc112823aba440c37dd671d5af26f011af89)[patentimages.storage.googleapis.com/pdfs/US7206661.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fpdfs%2FUS7206661.pdf&rut=f8bee1ecd76081a738000dba63cbbc112823aba440c37dd671d5af26f011af89)
+
+[(57) ABSTRACT (56) References Cited A computing environment is provided With the ability to at least contribute to the **persistent****naming** of the divided **sub-paths**; including their edges and vertices; of a continu U.S. PATENT DOCUMENTS i gavis ett all' ous **path** of an **intermittent** ?llet **Weld****bead**; including the](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fpdfs%2FUS7206661.pdf&rut=f8bee1ecd76081a738000dba63cbbc112823aba440c37dd671d5af26f011af89)
+
+## [PDF (19) United States (12) Patent Application Publication (10) Pub. No ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Ffa%2F8e%2Fe8%2Fd72b4bdf8a5d14%2FUS20050071042A1.pdf&rut=a16032bd495f148c3d374bd05c1f964e8790bdb96548188c02764c40cc16bc09)
+
+[![Image 4](https://external-content.duckduckgo.com/ip3/patentimages.storage.googleapis.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Ffa%2F8e%2Fe8%2Fd72b4bdf8a5d14%2FUS20050071042A1.pdf&rut=a16032bd495f148c3d374bd05c1f964e8790bdb96548188c02764c40cc16bc09)[patentimages.storage.googleapis.com/fa/8e/e8/d72b4bdf8a5d14/US20050071042A1.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Ffa%2F8e%2Fe8%2Fd72b4bdf8a5d14%2FUS20050071042A1.pdf&rut=a16032bd495f148c3d374bd05c1f964e8790bdb96548188c02764c40cc16bc09)
+
+[A computing environment is provided with the ability to at least contribute to the **persistent****naming** of the divided **Sub-paths**, including their edges and vertices, of a continu ouS **path** of an **intermittent****fillet****Weld****bead**, including the determination of an invariant **weld****bead** generation direc](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Ffa%2F8e%2Fe8%2Fd72b4bdf8a5d14%2FUS20050071042A1.pdf&rut=a16032bd495f148c3d374bd05c1f964e8790bdb96548188c02764c40cc16bc09)
+
+## [Shivakumar Sundaram Inventions, Patents and Patent Applications ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fshivakumar%2Dsundaram%3Fpage%3D4&rut=f9c7c66fe09ced3184393705d2a08e44fa012420cec4182b02cbe8c4530f027a)
+
+[![Image 5](https://external-content.duckduckgo.com/ip3/patents.justia.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fshivakumar%2Dsundaram%3Fpage%3D4&rut=f9c7c66fe09ced3184393705d2a08e44fa012420cec4182b02cbe8c4530f027a)[patents.justia.com/inventor/shivakumar-sundaram?page=4](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fshivakumar%2Dsundaram%3Fpage%3D4&rut=f9c7c66fe09ced3184393705d2a08e44fa012420cec4182b02cbe8c4530f027a)
+
+[Abstract: A computing environment is provided with the ability to at least contribute to the **persistent****naming** of the divided **sub-paths**, including their edges and vertices, of a continuous **path** of an **intermittent****fillet****weld****bead**, including the determination of an invariant **weld****bead** generation direction.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fshivakumar%2Dsundaram%3Fpage%3D4&rut=f9c7c66fe09ced3184393705d2a08e44fa012420cec4182b02cbe8c4530f027a)
+
+## [Somashekar Subrahmanyam Inventions, Patents and Patent Applications ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fsomashekar%2Dsubrahmanyam&rut=bee7cdd959abf746673618227cb209a3cc6e0007d7c55aa361d4094271dbbd96)
+
+[![Image 6](https://external-content.duckduckgo.com/ip3/patents.justia.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fsomashekar%2Dsubrahmanyam&rut=bee7cdd959abf746673618227cb209a3cc6e0007d7c55aa361d4094271dbbd96)[patents.justia.com/inventor/somashekar-subrahmanyam](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fsomashekar%2Dsubrahmanyam&rut=bee7cdd959abf746673618227cb209a3cc6e0007d7c55aa361d4094271dbbd96)
+
+[Abstract: A computing environment is provided with the ability to at least contribute to the **persistent****naming** of the divided **sub-paths**, including their edges and vertices, of a continuous **path** of an **intermittent****fillet****weld****bead**, including the determination of an invariant **weld****bead** generation direction.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.justia.com%2Finventor%2Fsomashekar%2Dsubrahmanyam&rut=bee7cdd959abf746673618227cb209a3cc6e0007d7c55aa361d4094271dbbd96)
+
+## [Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2F&rut=5733bada1b8c5464553f546058e6493771dce45dffee7bb2f65b980cad76a2b5)
+
+[![Image 7](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2F&rut=5733bada1b8c5464553f546058e6493771dce45dffee7bb2f65b980cad76a2b5)[patents.google.com](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2F&rut=5733bada1b8c5464553f546058e6493771dce45dffee7bb2f65b980cad76a2b5)
+
+[Search within the title, abstract, **claims**, or full patent document: You can restrict your search to a specific field using field names. Use TI= to search in the title, AB= for the abstract, CL= for the **claims**, or TAC= for all three.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2F&rut=5733bada1b8c5464553f546058e6493771dce45dffee7bb2f65b980cad76a2b5)
+
+## [Search for patents | USPTO](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+[![Image 8](https://external-content.duckduckgo.com/ip3/www.uspto.gov.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)[www.uspto.gov/patents/search](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+[Find existing patents, published patent applications, and other published patent documentation.](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch&rut=a3a6145323c145e57cacec4136bad6caaa395f88188e78064505fe070c29a733)
+
+## [Patent Public Search | USPTO](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch%2Fpatent%2Dpublic%2Dsearch&rut=be8167ff023dc47024d05e086c18c96d8df84a91d199915d0612035121924177)
+
+[![Image 9](https://external-content.duckduckgo.com/ip3/www.uspto.gov.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch%2Fpatent%2Dpublic%2Dsearch&rut=be8167ff023dc47024d05e086c18c96d8df84a91d199915d0612035121924177)[www.uspto.gov/patents/search/patent-public-search](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch%2Fpatent%2Dpublic%2Dsearch&rut=be8167ff023dc47024d05e086c18c96d8df84a91d199915d0612035121924177) 2025-12-20T00:00:00.0000000
+
+[The Patent Public Search tool is a web-based search application for patents and patent application publications. Patent Public Search has two user-selectable modern interfaces that provide enhanced access to prior art. The new, powerful, and flexible capabilities of the application will improve the overall patent searching process. If you are new to patent searches, or want to use the ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uspto.gov%2Fpatents%2Fsearch%2Fpatent%2Dpublic%2Dsearch&rut=be8167ff023dc47024d05e086c18c96d8df84a91d199915d0612035121924177)
+
+## [Subrahmanyam; Somashekar Ramachandran Patent Filings](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fuspto.report%2Fcompany%2FSubrahmanyam%2DSomashekar%2DRamachandran&rut=683ab6e0dc4e732bb391eb080dd1dd637b4e142f8df9650c3cee03d31d6313db)
+
+[![Image 10](https://external-content.duckduckgo.com/ip3/uspto.report.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fuspto.report%2Fcompany%2FSubrahmanyam%2DSomashekar%2DRamachandran&rut=683ab6e0dc4e732bb391eb080dd1dd637b4e142f8df9650c3cee03d31d6313db)[uspto.report/company/Subrahmanyam-Somashekar-Ramachandran](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fuspto.report%2Fcompany%2FSubrahmanyam%2DSomashekar%2DRamachandran&rut=683ab6e0dc4e732bb391eb080dd1dd637b4e142f8df9650c3cee03d31d6313db)
+
+[Patent applications and USPTO patent grants for Subrahmanyam; Somashekar Ramachandran.The latest application filed is for "detection of component hole gaps for **weld****beads** in a computer-implemented solid modeling system".](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fuspto.report%2Fcompany%2FSubrahmanyam%2DSomashekar%2DRamachandran&rut=683ab6e0dc4e732bb391eb080dd1dd637b4e142f8df9650c3cee03d31d6313db)
+
+[Feedback](https://duckduckgo.com/feedback.html)
+
+![Image 11](https://duckduckgo.com/t/sl_h)

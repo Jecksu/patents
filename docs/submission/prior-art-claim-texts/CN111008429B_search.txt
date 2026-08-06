@@ -1,0 +1,72 @@
+Title: CN111008429B 基于点云的异构CAD几何一致性对比方法 权利要求 at DuckDuckGo
+
+URL Source: https://duckduckgo.com/html/?q=CN111008429B%20%E5%9F%BA%E4%BA%8E%E7%82%B9%E4%BA%91%E7%9A%84%E5%BC%82%E6%9E%84CAD%E5%87%A0%E4%BD%95%E4%B8%80%E8%87%B4%E6%80%A7%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95%20%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82
+
+Markdown Content:
+[](https://duckduckgo.com/html/?q=CN111008429B%20%E5%9F%BA%E4%BA%8E%E7%82%B9%E4%BA%91%E7%9A%84%E5%BC%82%E6%9E%84CAD%E5%87%A0%E4%BD%95%E4%B8%80%E8%87%B4%E6%80%A7%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95%20%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82)
+
+[](https://duckduckgo.com/html/ "DuckDuckGo")
+
+## [CN111008429B - 一种基于点云的异构cad几何一致性对比方法 - Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN111008429B%2Fzh&rut=4bf96798ca5fe71483e92274673661209ff2c8064de664d09160a7bb55d4acbd)
+
+[![Image 1](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN111008429B%2Fzh&rut=4bf96798ca5fe71483e92274673661209ff2c8064de664d09160a7bb55d4acbd)[patents.google.com/patent/CN111008429B/zh](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN111008429B%2Fzh&rut=4bf96798ca5fe71483e92274673661209ff2c8064de664d09160a7bb55d4acbd)
+
+[本发明属于计算机辅助设计领域,具体设计一种基于点云的异构CAD几何一致性对比方法。本发明将原始CAD模型线、面分割获取点云数据，然后导入到转换或重建的CAD模型中，通过计算点云中各数据点和相应线、面之间最小距离，对转换或重建CAD模型几何精度进行检测。提高了原模型与转换或重建模型 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN111008429B%2Fzh&rut=4bf96798ca5fe71483e92274673661209ff2c8064de664d09160a7bb55d4acbd)
+
+## [PDF DI +iB- - patentimages.storage.googleapis.com](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fa8%2F82%2F31%2F32c7720f06b158%2FCN111008429A.pdf&rut=981d8a0081a3e9babcc30b129a0981bf8033a9bcfa7c8b60a4a23a1b514923d1)
+
+[![Image 2](https://external-content.duckduckgo.com/ip3/patentimages.storage.googleapis.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fa8%2F82%2F31%2F32c7720f06b158%2FCN111008429A.pdf&rut=981d8a0081a3e9babcc30b129a0981bf8033a9bcfa7c8b60a4a23a1b514923d1)[patentimages.storage.googleapis.com/a8/82/31/32c7720f06b158/CN111008429A.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fa8%2F82%2F31%2F32c7720f06b158%2FCN111008429A.pdf&rut=981d8a0081a3e9babcc30b129a0981bf8033a9bcfa7c8b60a4a23a1b514923d1)
+
+[速检测。[0004]本发明的技术方案:[0005]第一方面,提供了一种基于点云的异构CAD几何一致性对比方法,包括:遍历原始CAD模型中的点、线、面;根据给定精度要求对获取的线、面进行分割;提取分割线段的端点以及面片顶点数据,按一定规则生成点云数据 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2Fa8%2F82%2F31%2F32c7720f06b158%2FCN111008429A.pdf&rut=981d8a0081a3e9babcc30b129a0981bf8033a9bcfa7c8b60a4a23a1b514923d1)
+
+## [PDF D I - patentimages.storage.googleapis.com](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2F7b%2Fcc%2F6a%2Fab28ad9d660920%2FCN111008429B.pdf&rut=389474db4fb1bcfa4d0bddc9e82dc94b935c764cfd2ded0488140ebbd4b576e6)
+
+[![Image 3](https://external-content.duckduckgo.com/ip3/patentimages.storage.googleapis.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2F7b%2Fcc%2F6a%2Fab28ad9d660920%2FCN111008429B.pdf&rut=389474db4fb1bcfa4d0bddc9e82dc94b935c764cfd2ded0488140ebbd4b576e6)[patentimages.storage.googleapis.com/7b/cc/6a/ab28ad9d660920/CN111008429B.pdf](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2F7b%2Fcc%2F6a%2Fab28ad9d660920%2FCN111008429B.pdf&rut=389474db4fb1bcfa4d0bddc9e82dc94b935c764cfd2ded0488140ebbd4b576e6)
+
+[测。[0004]本发明的技术方案:[0005]第一方面,提供了一种基于点云的异构CAD几何一致性对比方法,包括:遍历原始CAD模型中的点、线、面;根据给定精度要求对获取的线、面进行分割;提取分割线段的端点以及面片顶点数据,按一定规则生成点云数据 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatentimages.storage.googleapis.com%2F7b%2Fcc%2F6a%2Fab28ad9d660920%2FCN111008429B.pdf&rut=389474db4fb1bcfa4d0bddc9e82dc94b935c764cfd2ded0488140ebbd4b576e6)
+
+## [一种基于点云的异构cad几何一致性对比方法专利检索-计算机辅助设计软件专利检索查询-专利查询网](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D14950%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9c598ffc33c21205e945208711de1538c42c9c506abc1e3e5a8afae9b836ca77)
+
+[![Image 4](https://external-content.duckduckgo.com/ip3/www.patenthub.cn.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D14950%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9c598ffc33c21205e945208711de1538c42c9c506abc1e3e5a8afae9b836ca77)[www.patenthub.cn/zhuanli/patent-14950-CN111008429A-11c20d51f72cc10be9e367e9bf42147d.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D14950%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9c598ffc33c21205e945208711de1538c42c9c506abc1e3e5a8afae9b836ca77)
+
+[[0005] 第一方面,提供了一种基于点云的异构CAD几何一致性对比方法,包括:遍历原始CAD模型中的点、线、面；根据给定 精度 要求对获取的线、面进行分割；提取分割线段的端点以及面片 顶点 数据，按一定规则生成点云数据；将点云数据导入转换或重建的**CAD**模型中；计算点云数据中的点到转换或重建的 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D14950%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9c598ffc33c21205e945208711de1538c42c9c506abc1e3e5a8afae9b836ca77)
+
+## [一种基于点云的异构cad几何一致性对比方法专利检索-计算机辅助设计计算机集成制造制造过程专利检索查询-专利查询网](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D15083%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9e0c12f87db38c7275b0e7897400fedbb30ce2f15533997dc72b4983fb7debad)
+
+[![Image 5](https://external-content.duckduckgo.com/ip3/www.patenthub.cn.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D15083%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9e0c12f87db38c7275b0e7897400fedbb30ce2f15533997dc72b4983fb7debad)[www.patenthub.cn/zhuanli/patent-15083-CN111008429A-11c20d51f72cc10be9e367e9bf42147d.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D15083%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9e0c12f87db38c7275b0e7897400fedbb30ce2f15533997dc72b4983fb7debad)
+
+[[0005] 第一方面,提供了一种基于点云的异构CAD几何一致性对比方法,包括:遍历原始CAD模型中的点、线、面；根据给定 精度 要求对获取的线、面进行分割；提取分割线段的端点以及面片 顶点 数据，按一定规则生成点云数据；将点云数据导入转换或重建的**CAD**模型中；计算点云数据中的点到转换或重建的 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.patenthub.cn%2Fzhuanli%2Fpatent%2D15083%2DCN111008429A%2D11c20d51f72cc10be9e367e9bf42147d.html&rut=9e0c12f87db38c7275b0e7897400fedbb30ce2f15533997dc72b4983fb7debad)
+
+## [一种基于点云的异构cad几何一致性对比方法 [发明专利]](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwenku.baidu.com%2Fview%2Fd7b9c7a6cd84b9d528ea81c758f5f61fb63628df&rut=fc5e4083314ab7c8d9da304ed175f92ecafbe45801b4363de1a1797d42062124)
+
+[![Image 6](https://external-content.duckduckgo.com/ip3/wenku.baidu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwenku.baidu.com%2Fview%2Fd7b9c7a6cd84b9d528ea81c758f5f61fb63628df&rut=fc5e4083314ab7c8d9da304ed175f92ecafbe45801b4363de1a1797d42062124)[wenku.baidu.com/view/d7b9c7a6cd84b9d528ea81c758f5f61fb63628df](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwenku.baidu.com%2Fview%2Fd7b9c7a6cd84b9d528ea81c758f5f61fb63628df&rut=fc5e4083314ab7c8d9da304ed175f92ecafbe45801b4363de1a1797d42062124)
+
+[申请人：中国直升机设计研究所 地址：333001 江西省景德镇市航空路6-8号 国籍：CN 代理机构：中国航空专利中心 代理人：王世磊 更多信息请下载全文后查看 Biblioteka Baidu f 专利内容由知识产权出版社提供 专利名称：一种基于点云的异构**CAD**几何一致性对比方法 专利类型：发明专利 发明人：王宏,赵 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwenku.baidu.com%2Fview%2Fd7b9c7a6cd84b9d528ea81c758f5f61fb63628df&rut=fc5e4083314ab7c8d9da304ed175f92ecafbe45801b4363de1a1797d42062124)
+
+## [中国专利公布公告](https://duckduckgo.com/l/?uddg=http%3A%2F%2Fepub.cnipa.gov.cn%2FIndex&rut=5d9ee2814826863da46f0644c1af005c4c7f9d680376a30d911d193f4ef9611e)
+
+[![Image 7](https://external-content.duckduckgo.com/ip3/epub.cnipa.gov.cn.ico)](https://duckduckgo.com/l/?uddg=http%3A%2F%2Fepub.cnipa.gov.cn%2FIndex&rut=5d9ee2814826863da46f0644c1af005c4c7f9d680376a30d911d193f4ef9611e)[epub.cnipa.gov.cn/Index](https://duckduckgo.com/l/?uddg=http%3A%2F%2Fepub.cnipa.gov.cn%2FIndex&rut=5d9ee2814826863da46f0644c1af005c4c7f9d680376a30d911d193f4ef9611e)
+
+[中国专利公布公告](https://duckduckgo.com/l/?uddg=http%3A%2F%2Fepub.cnipa.gov.cn%2FIndex&rut=5d9ee2814826863da46f0644c1af005c4c7f9d680376a30d911d193f4ef9611e)
+
+## [一种基于点云的异构cad几何一致性对比方法 - 百度学术](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1t3c0jv06t2s0gg0sm580pt0mj317433%26site%3Dxueshu_se&rut=ef462409fa3b34d3051ca5b5fd11dfe389e3f3d289d9032e884a7a9cf0440dbb)
+
+[![Image 8](https://external-content.duckduckgo.com/ip3/xueshu.baidu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1t3c0jv06t2s0gg0sm580pt0mj317433%26site%3Dxueshu_se&rut=ef462409fa3b34d3051ca5b5fd11dfe389e3f3d289d9032e884a7a9cf0440dbb)[xueshu.baidu.com/usercenter/paper/show?paperid=1t3c0jv06t2s0gg0sm580pt0mj317433&site=xueshu_se](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1t3c0jv06t2s0gg0sm580pt0mj317433%26site%3Dxueshu_se&rut=ef462409fa3b34d3051ca5b5fd11dfe389e3f3d289d9032e884a7a9cf0440dbb)
+
+[本发明属于计算机辅助设计领域,具体设计一种基于点云的异构CAD几何一致性对比方法.本发明将原始CAD模型线,面分割获取点云数据,然后导入到转换或重建的CAD模型中,通过计算点云中各数据点和相应线,面之间最小距离,对转换或重建CAD模型几何精度进行检测.提高了原模型与转换或重建模型几何一致性 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1t3c0jv06t2s0gg0sm580pt0mj317433%26site%3Dxueshu_se&rut=ef462409fa3b34d3051ca5b5fd11dfe389e3f3d289d9032e884a7a9cf0440dbb)
+
+## [一种基于点云的异构CAD几何一致性对比方法与流程](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F201911237573.html&rut=009d127cdcd006894dc53b6916829ca81f2a63fab97fd0074cf780b827cae271)
+
+[![Image 9](https://external-content.duckduckgo.com/ip3/www.xjishu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F201911237573.html&rut=009d127cdcd006894dc53b6916829ca81f2a63fab97fd0074cf780b827cae271)[www.xjishu.com/zhuanli/55/201911237573.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F201911237573.html&rut=009d127cdcd006894dc53b6916829ca81f2a63fab97fd0074cf780b827cae271)
+
+[8.根据权利要求1所述的方法,其特征在于,根据弯曲程度确定分割点的数量,具体包括:弯曲程度大的数量多,弯曲程度小的数量少。 技术总结 本发明属于计算机辅助设计领域,具体设计一种基于点云的异构**CAD**几何一致性对比方法。](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F201911237573.html&rut=009d127cdcd006894dc53b6916829ca81f2a63fab97fd0074cf780b827cae271)
+
+## [Iprdb - 专利查询 | 全球专利搜索引擎 - 知嘟嘟](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.iprdb.com%2F&rut=4ccae0adcec269579331c9489789983712c9eadec7b204f2ea22351d7dbc65f0)
+
+[![Image 10](https://external-content.duckduckgo.com/ip3/www.iprdb.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.iprdb.com%2F&rut=4ccae0adcec269579331c9489789983712c9eadec7b204f2ea22351d7dbc65f0)[www.iprdb.com](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.iprdb.com%2F&rut=4ccae0adcec269579331c9489789983712c9eadec7b204f2ea22351d7dbc65f0)
+
+[全球专利查询平台，提供快速、精准的专利检索服务。支持多国专利数据，涵盖115个国家超1.5亿专利信息。专利分析、侵权预警、数据管理一站式服务，助力企业和个人知识产权保护。](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.iprdb.com%2F&rut=4ccae0adcec269579331c9489789983712c9eadec7b204f2ea22351d7dbc65f0)
+
+[Feedback](https://duckduckgo.com/feedback.html)
+
+![Image 11](https://duckduckgo.com/t/sl_h)

@@ -1,0 +1,283 @@
+Title: KYC, KYB & AML Data Platform for Global Compliance
+
+URL Source: https://www.qcc.com/zhuanliDetail/0fa82f74f03bb6f80d95d23bf9708c89.html
+
+Markdown Content:
+[![Image 1: QCC](https://www.qcc.com/img/logo_pc2.png?v=4)](https://www.qcc.com/)
+
+[PRODUCTS](https://www.qcc.com/kyc-polymerize-page)[KYC Reports Generate structured KYC reports with consolidated entity, ownership, and risk information.](https://www.qcc.com/kyc-reports)[AML Screening Free Trial Screen entities/personnels against sanctions and risk signals with contextual entity intelligence.](https://www.qcc.com/aml-screening)[Data Map Workspace Visualize entity relationships and risk connections through an interactive data map.](https://www.qcc.com/data-map-workspace)[Ongoing Monitor Track entities/personnels changes in real time and receive alerts on emerging risk events.](https://www.qcc.com/ongoing-monitor)[Qspect Qualify inbound leads instantly — verify the business, score ICP fit, flag competitor risk.](http://qspect.qcckyc.com/)
+
+[SOLUTIONS](https://www.qcc.com/kyc-polymerize-page)
+
+ Onboarding & Lifecycle Management 
+
+[KYC/KYB Verification Verify individuals and businesses using reliable identity and risk data.](https://www.qcc.com/kyc-kyb-verification)[eKYC/KYB Onboarding API API-based onboarding for fast, compliant KYC and KYB.](https://www.qcc.com/onboarding-api)[Vendor/Merchant Background Check Assess vendor and merchant risk via ownership and legal data.](https://www.qcc.com/merchant-background-check)[Risk Assessment Evaluate entity risk using multi-dimensional data and change signals.](https://www.qcc.com/risk-assessment)[Ultimate Beneficial Owner(UBO) Identification Identify true controlling parties through ownership and relationship analysis.](https://www.qcc.com/ultimate-beneficial-owner)
+
+ Deep Investigation & Risk Assessment 
+
+[Conflict of Interest Detect hidden relationships causing conflicts across entities and people.](https://www.qcc.com/conflict-of-interest)[Shell Company Detection Identify shell entities via ownership patterns, clusters, substance signals.](https://www.qcc.com/shell-company-detection)[AML & Sanction Compliance Mitigate money laundering, sanctions risks via automated screening.](https://www.qcc.com/aml-sanction-compliance)
+
+ Business Intelligence 
+
+[Featured Offline Datasets Curated enterprise data for offline analysis, risk assessment.](https://www.qcc.com/featured-offline-datasets)[Industrial Chain Intelligence Industry relationship data revealing upstream, downstream dependencies.](https://www.qcc.com/industrial-chain-intelligence)[Q-Score Evaluate Chinese partners using interpretable ratings](https://www.qcc.com/q-score)
+
+ Real-time Monitoring & Alert 
+
+[Adverse Media Monitoring Continuously track entity and personnel changes across multiple risk dimensions.](https://www.qcc.com/adverse-media)[Risk Monitoring Monitor negative news and risk narratives across global media.](https://www.qcc.com/risk-monitoring)[AML & Sanction Monitoring Monitor evolving AML and sanctions exposure via continuous risk updates.](https://www.qcc.com/aml-sanction-monitoring)
+
+[Products & Solutions](https://www.qcc.com/kyc-polymerize-page)
+
+[Banking](https://www.qcc.com/industries-banking)[E-commerce](https://www.qcc.com/industries-e-commerce)[Payments](https://www.qcc.com/industries-payments)[Insurance](https://www.qcc.com/industries-insurance)[Manufacturing](https://www.qcc.com/industries-manufacturing)[Wealth Management](https://www.qcc.com/industries-wealth-management)[Corporate Services](https://www.qcc.com/industries-corporate-services)[Real Estate](https://www.qcc.com/industries-real-estate)
+
+ Industries 
+
+[Blogs](https://www.qcc.com/blog)[News](https://www.qcc.com/news-list)[White Papers Coming Soon](javascript:void(0))[Videos Coming Soon](javascript:void(0))
+
+ Resources 
+
+[Free Company Search](https://www.qcc.com/free-company-search)[Free AML Screen](https://www.qcc.com/free-aml-screen)
+
+ Free Tools 
+
+[Our Company](https://www.qcc.com/about-us-our-company)[Our Partners](https://www.qcc.com/about-us-our-partners)[Contact Us](https://www.qcc.com/demo-request?track=PC-About%20Us-Contact%20Us)[FAQs](https://www.qcc.com/about-us-faq)
+
+ About Us 
+
+Live Search Login
+
+ Demo →
+
+# One-Stop Global Verification Platform
+
+ The one-stop solution for automating global KYC/KYB onboarding, risk monitoring, AML screening, and comprehensive corporate due diligence, ensuring regulatory confidence across the world. 
+
+ Buy Reports 
+
+ Request a Demo 
+
+ 600M+ 
+
+ Global Entities 
+
+ 100+ 
+
+ Countries 
+
+ 900M+ 
+
+ Relationships 
+
+ 400+ 
+
+ Featured Data Fields 
+
+![Image 2](https://www.qcc.com/img/pc/home/platform/platform-bg.png?t=2026031001)
+
+01
+
+## KYC/KYB Verification
+
+ Access deep, verified company and personnel identities instantly. Check registration data, legal status, and key personnel to accelerate global KYC/KYB onboarding and risk decisions. 
+
+02
+
+## Entity Relationship Map
+
+ Visualize complex equity, employment, and non-obvious relationships across 600M+ global entities. Quickly identify UBOs and hidden risk paths for deep-dive investigations. 
+
+# A Unified Platform for Global Business Intelligence
+
+QCC delivers entity data, KYC/AML screening, and real-time monitoring through one seamless workflow. Skip the manual checks — let verified data and automation guide compliance, risk decisions, and onboarding.
+
+03
+
+## AML Screening
+
+ Screen entities and individuals against global sanctions, watchlist, and adverse media. Ensure compliance with continuously refreshed records. 
+
+04
+
+## Ongoing Monitoring
+
+ Track 30M+ daily updates with AI signal classification. Receive instant alerts on registration changes, legal actions, and risk events customized to your workflow. 
+
+05
+
+## Enterprise API Suite
+
+ Plug KYC, Data Map insights, Monitoring and AML screening directly into your CRM or internal systems. Scalable, enterprise-grade APIs designed for modern compliance stacks. 
+
+Industry Tailored Solutions
+
+ Banking 
+
+ Deliver frictionless onboarding and rigorous KYC/AML checks while keeping risk exposure transparent across the entire customer lifecycle. 
+
+[Explore](https://www.qcc.com/industries-banking)
+
+ Payments 
+
+ Enable rapid merchant account verification and enhanced AML screening to keep transactions clean, compliant, and globally scalable. 
+
+[Explore](https://www.qcc.com/industries-payments)
+
+ Manufacturing 
+
+ Secure your global supply chain through rigorous compliance verification and continuous monitoring of vendor operational and governance risks. 
+
+[Explore](https://www.qcc.com/industries-manufacturing)
+
+ Corporate Services 
+
+ Support client due diligence with complete entity intelligence, UBO clarity, and automated compliance workflows built for efficiency. 
+
+[Explore](https://www.qcc.com/industries-corporate-services)
+
+ E-commerce 
+
+ Fast-track merchant onboarding, detect hidden control relationships, and screen high-risk entities for platform integrity. 
+
+[Explore](https://www.qcc.com/industries-e-commerce)
+
+ Wealth Management 
+
+ Reveal true client wealth sources, hidden business ties, and ongoing risk changes to support SOW, UBO, and enhanced due diligence. 
+
+[Explore](https://www.qcc.com/industries-wealth-management)
+
+ Insurance 
+
+ Verify policyholders and beneficiaries, uncover hidden affiliations, and monitor legal or operational risks to reduce fraud and underwriting exposure. 
+
+[Explore](https://www.qcc.com/industries-insurance)
+
+ Real Estate 
+
+ Identify true property owners, UBOs, and related-party risks while tracking litigation, ownership, and financial changes across entities. 
+
+[Explore](https://www.qcc.com/industries-real-estate)
+
+## Global Risk Intelligence
+
+ QCC unifies KYC, AML, relationship intelligence, and ongoing monitoring into one continuous enterprise risk intelligence platform. 
+
+### [KYC Reports Generate structured KYC reports with consolidated entity, ownership, and risk information.](https://www.qcc.com/kyc-reports)### [AML Screening Screen entities/personnels against sanctions and risk signals with contextual entity intelligence.](https://www.qcc.com/aml-screening)### [Data Map Workspace Visualize entity relationships and risk connections through an interactive data map.](https://www.qcc.com/data-map-workspace)### [Ongoing Monitor Track entities/personnels changes in real time and receive alerts on emerging risk events.](https://www.qcc.com/ongoing-monitor)### [eKYC/KYB Onboarding API API-based onboarding for fast, compliant KYC and KYB.](https://www.qcc.com/onboarding-api)### [Vendor/Merchant Background Check Assess vendor and merchant risk via ownership and legal data.](https://www.qcc.com/merchant-background-check)### [Conflict of Interest Detect hidden relationships causing conflicts across entities and people.](https://www.qcc.com/conflict-of-interest)### [Shell Company Detection Identify shell entities via ownership patterns, clusters, substance signals.](https://www.qcc.com/shell-company-detection)[See More](https://www.qcc.com/kyc-polymerize-page)
+
+## News & Blogs
+
+### [【News】QCC Now Offers Bermuda Company Data for Offshore KYB QCC has expanded its offshore KYB coverage with Bermuda company data. Compliance teams can now access registry-sourced company profiles covering registration status, legal form, share capital, directors, charges, and document verification. 07 Jul 2026](https://www.qcc.com/news-detail?id=cd6a4e3050b24b2c945a78912a31b321)### [【News】QCC Now Offers Free Company Search to Verify Any Business in Seconds A free company search lets you look up a business by name and instantly view its official registration details, legal status, shareholders, directors and beneficial ownership. QCC now offers this at no cost across more than 600 million entities worldwide, sourced directly from government registries and refreshed daily. For compliance teams, a fast and reliable company lookup is the entry point to every onboarding, vendor check and counterparty review. The hard part has always been China and the wider Asia region, where official records sit behind local-language portals that most global tools cannot reach. This guide explains what QCC's free company search covers, how the data is sourced, how to use it for KYB, and when to move from a quick lookup to full due diligence. 30 Jun 2026](https://www.qcc.com/news-detail?id=d372ffa7c7074e95999c4aac670849bf)### [China Legal Representative Lookup: The One Name That Can Sign Away the Whole Company To find a Chinese company's legal representative, search the company on NECIPS — China's National Enterprise Credit Information Publicity System at gsxt.gov.cn — using its exact Chinese name or 18-character Unified Social Credit Code. The legal representative (法定代表人) appears in the basic registration record as the single individual legally empowered to bind the company in contracts, filings, and litigation. 25 Jun 2026](https://www.qcc.com/blog-detail?id=6987cadad52240d493dc12fd20298932)### [China Business License Check: How to Spot a Fake Chinese Business License in 5 Minutes To check a Chinese business license, take the 18-character Unified Social Credit Code (USCC) printed on it and search that exact code on NECIPS — China's official National Enterprise Credit Information Publicity System at gsxt.gov.cn. The returned legal name, status, and legal representative must match the license character-for-character. Any mismatch is a stop sign. 19 Jun 2026](https://www.qcc.com/blog-detail?id=ab9fb7c49e4341cbbbafc730801f08d0)### [GSXT (NECIPS): Search China's Business Registry 2026 GSXT is China's National Enterprise Credit Information Publicity System, the official corporate registry operated by the State Administration for Market Regulation (SAMR) at www.gsxt.gov.cn. It lets anyone verify a Chinese company's registration status, Unified Social Credit Code, legal representative, registered address, business scope, and regulatory penalties for free. 18 Jun 2026](https://www.qcc.com/blog-detail?id=c150cf76d26f467a8f76f3c425bbdafd)### [Cayman Islands Company Search: The Complete 2026 Guide to the General Registry The Cayman Islands is a leading domicile for investment funds and holding structures, so verifying a Cayman entity is a frequent requirement for compliance teams onboarding cross-border counterparties and fund vehicles. 17 Jun 2026](https://www.qcc.com/blog-detail?id=a225fb466f2f4d4a9e34c9398a793f80)### [How to Search the BVI Company Register in 2026 (Step-by-Step Guide) The British Virgin Islands is one of the largest offshore incorporation centres in the world, so verifying a BVI entity is a routine but high-stakes step for any compliance team onboarding cross-border counterparties. 15 Jun 2026](https://www.qcc.com/blog-detail?id=2be4955701214c8995dd91a60cea6da2)### [【News】QCC Now Offers British Virgin Islands and Cayman Islands Company Data QCC has expanded its global coverage with new source-document products for the British Virgin Islands (BVI) and the Cayman Islands. Compliance teams can now order official-source corporate extracts and director lists for two of the world's most widely used offshore jurisdictions directly through QCC 11 Jun 2026](https://www.qcc.com/news-detail?id=ab26dff0039741579cf56448dc1b0645)[See More](https://www.qcc.com/blog)
+
+Trusted Security & Compliance
+
+![Image 3](https://www.qcc.com/img/pc/home/trusted-security-compliance/1.png?t=2026020601)
+
+ISO/IEC
+
+27701:2019 Privacy Information Management System (PIMS)
+
+![Image 4](https://www.qcc.com/img/pc/home/trusted-security-compliance/2.png?t=2026020601)
+
+ISO/IEC 27001:2022 Information Security Management System (ISMS)
+
+![Image 5](https://www.qcc.com/img/pc/home/trusted-security-compliance/3.png?t=2026020601)
+
+ISO/IEC 27018 Code of Practice for Protection of Personally Identifiable Information (PII) in public clouds
+
+![Image 6](https://www.qcc.com/img/pc/home/trusted-security-compliance/4.png?t=2026020601)
+
+DCMM Data Management Capability Maturity Model
+
+![Image 7](https://www.qcc.com/img/pc/home/trusted-security-compliance/5.png?t=2026020601)
+
+CMMI Capability
+
+Maturity Model Integration
+
+![Image 8](https://www.qcc.com/img/pc/home/trusted-security-compliance/6.png?t=2026020601)
+
+ITSS Information Technology Service Standards
+
+![Image 9](https://www.qcc.com/img/pc/home/trusted-security-compliance/7.png?t=2026020601)
+
+DSMC Data Safety and Monitoring Committee
+
+![Image 10](https://www.qcc.com/img/pc/home/trusted-security-compliance/8.png?t=2026020601)
+
+DJCP Determined Grade for Cyber Security Protection
+
+Ready to Build with Intelligent Risk Data?
+
+Connect your system today and streamline your compliance workflow with the world's most reliable data.
+
+Request a Demo
+
+![Image 11](https://www.qcc.com/img/logo_pc2.png?t=2026020601)![Image 12](https://www.qcc.com/img/pc/footer/sfa.png?t=2026020601)![Image 13](https://www.qcc.com/img/pc/footer/hk.png?t=2026020601)
+
+![Image 14](https://www.qcc.com/img/pc/footer/gleif.png?t=2026020601)[![Image 15](https://www.qcc.com/img/pc/footer/gleif_logo.png?t=2026020601)](https://www.gleif.org/en/about/gleif-engagement/gleif-partners-program/gleif-partners-solutions)
+
+![Image 16](https://www.qcc.com/img/pc/footer/certifications.png?t=2026020601)
+ISO 27001:2022 ISO 27701:2019 ISO 27018
+
+[](https://www.linkedin.com/company/qcckyc)[](https://x.com/QCC_sg)
+
+[System Status →](https://www.qcc.com/system-status)
+
+Products
+
+[KYC Reports](https://www.qcc.com/kyc-reports)[AML Screening](https://www.qcc.com/aml-screening)[Data Map Workspace](https://www.qcc.com/data-map-workspace)[Ongoing Monitor](https://www.qcc.com/ongoing-monitor)
+
+Verify by Jurisdictions
+
+[Verify a China Company](https://www.qcc.com/verify-china-company)[Verify a Singapore Company](https://www.qcc.com/verify-singapore-company)[Verify a Hong Kong Company](https://www.qcc.com/verify-hong-kong-company)[Verify a Taiwan Company](https://www.qcc.com/verify-taiwan-company)[Verify a Macau Company](https://www.qcc.com/verify-macau-company)[Verify a Malaysia Company](https://www.qcc.com/verify-malaysia-company)[Verify a Thailand Company](https://www.qcc.com/verify-thailand-company)[Verify an Indonesia Company](https://www.qcc.com/verify-indonesia-company)[Verify a Philippine Company](https://www.qcc.com/verify-philippine-company)[Verify a Vietnam Company](https://www.qcc.com/verify-vietnam-company)
+
+Solutions
+
+Onboarding & Lifecycle Management
+
+[KYC/KYB Verification](https://www.qcc.com/kyc-kyb-verification)[eKYC/KYB Onboarding API](https://www.qcc.com/onboarding-api)[Vendor/Merchant Background Check](https://www.qcc.com/merchant-background-check)[Risk Assessment](https://www.qcc.com/risk-assessment)[Ultimate Beneficial Owner(UBO) Identification](https://www.qcc.com/ultimate-beneficial-owner)
+
+Deep Investigation & Risk Assessment
+
+[Conflict of Interest](https://www.qcc.com/conflict-of-interest)[Shell Company Detection](https://www.qcc.com/shell-company-detection)[AML & Sanction Compliance](https://www.qcc.com/aml-sanction-compliance)
+
+Business Intelligence
+
+[Featured Offline Datasets](https://www.qcc.com/featured-offline-datasets)[Industrial Chain Intelligence](https://www.qcc.com/industrial-chain-intelligence)[Q-Score](https://www.qcc.com/q-score)
+
+Real-time Monitoring & Alert
+
+[Adverse Media Monitoring](https://www.qcc.com/adverse-media)[Risk Monitoring](https://www.qcc.com/risk-monitoring)[AML & Sanction Monitoring](https://www.qcc.com/aml-sanction-monitoring)
+
+Industries
+
+[Banking](https://www.qcc.com/industries-banking)[Payments](https://www.qcc.com/industries-payments)[Manufacturing](https://www.qcc.com/industries-manufacturing)[Corporate Services](https://www.qcc.com/industries-corporate-services)[E-commerce](https://www.qcc.com/industries-e-commerce)[Insurance](https://www.qcc.com/industries-insurance)[Wealth Management](https://www.qcc.com/industries-wealth-management)[Real Estate](https://www.qcc.com/industries-real-estate)
+
+Free Tools
+
+[Free Company Search](https://www.qcc.com/free-company-search)[Free AML Screen](https://www.qcc.com/free-aml-screen)
+
+About Us
+
+[Our Company](https://www.qcc.com/about-us-our-company)[Our Partners](https://www.qcc.com/about-us-our-partners)[Contact Us](https://www.qcc.com/demo-request?track=PC-About%20Us-Contact%20Us)[FAQs](https://www.qcc.com/about-us-faq)
+
+[Terms and conditions](https://www.qcc.com/terms-conditions?type=1) | [Privacy Policy](https://www.qcc.com/terms-conditions?type=2) | Copyright © 2026 QCC TECH PTE LTD. All rights reserved. 
+
+Cookie Preference
+
+ This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics and personalization. You may change your settings by clicking "Customize cookies", or accept the default settings. You may close this banner to continue with only essential cookies. 
+
+ Customize cookies Accept all
+
+- [x]   Functionalities 
+
+Essential
+
+ We use cookies to ensure a smooth user experience, including logging in and filling out forms. These cookies cannot be disabled in our systems. We respect your privacy and do not store any personally identifiable information. However, if you block these cookies, it may partially or completely affect the functionality of these services. 
+
+- [x] Preferences 
+
+ We value your time and preferences. These cookies help us provide enhanced functionality and personalized services. Functional cookies may include first-party, third-party, persistent, or session cookies. This helps us remember your site preferences and choices. However, if you do not allow these cookies, it may partially or completely affect the functionality of these services. 
+
+- [x] Analytics 
+
+ We use these cookies to count the number of visitors to our website and to see how they move around it. This helps us improve the way our website works, for e.g., by ensuring that users are finding what they are looking for easily.

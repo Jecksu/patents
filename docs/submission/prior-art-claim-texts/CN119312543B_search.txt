@@ -1,0 +1,72 @@
+Title: CN119312543B 基于BREP的CAD模型对比方法 权利要求 at DuckDuckGo
+
+URL Source: https://duckduckgo.com/html/?q=CN119312543B%20%E5%9F%BA%E4%BA%8EBREP%E7%9A%84CAD%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95%20%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82
+
+Markdown Content:
+[](https://duckduckgo.com/html/?q=CN119312543B%20%E5%9F%BA%E4%BA%8EBREP%E7%9A%84CAD%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%E6%96%B9%E6%B3%95%20%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82)
+
+[](https://duckduckgo.com/html/ "DuckDuckGo")
+
+## [CN119312543B - 基于brep的cad模型对比方法、设备和存储介质 - Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN119312543B%2Fzh&rut=b0433b9d09dbb32dc7de021f22136eb167d62d2231ee574f7eef9b4abbd92771)
+
+[![Image 1](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN119312543B%2Fzh&rut=b0433b9d09dbb32dc7de021f22136eb167d62d2231ee574f7eef9b4abbd92771)[patents.google.com/patent/CN119312543B/zh](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN119312543B%2Fzh&rut=b0433b9d09dbb32dc7de021f22136eb167d62d2231ee574f7eef9b4abbd92771)
+
+[本申请涉及计算机辅助工程技术领域，提供了基于BREP的CAD模型对比方法，该方法包括：将两个目标CAD模型之间进行可视化比较；若两个目标CAD模型的可视化比较的结果不一致，则确定两个目标CAD模型为不同模型；若两个目标CAD模型的可视化比较的结果一致，则比较两个目标CAD模型的边界表示BREP数据 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FCN119312543B%2Fzh&rut=b0433b9d09dbb32dc7de021f22136eb167d62d2231ee574f7eef9b4abbd92771)
+
+## [基于BREP的CAD模型对比方法、设备和存储介质与流程](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F202411354990.html&rut=2f84aec37a8067d4dc15ed1b86016b91cf784b3872c917cd50268720e9bf558a)
+
+[![Image 2](https://external-content.duckduckgo.com/ip3/www.xjishu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F202411354990.html&rut=2f84aec37a8067d4dc15ed1b86016b91cf784b3872c917cd50268720e9bf558a)[www.xjishu.com/zhuanli/55/202411354990.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F202411354990.html&rut=2f84aec37a8067d4dc15ed1b86016b91cf784b3872c917cd50268720e9bf558a) 2025-01-17T00:00:00.0000000
+
+[本发明涉及计算机辅助工程，特别涉及一种基于**brep的cad**模型对比方法、设备和存储介质。 背景技术： 1、在计算机辅助设计 (computer aided design，cad)领域，边界表示 (boundaryrepresentation，brep)格式是一种用于表示三维实体的几何模型的格式，它通过描述实体边界的几何特征来表示实体，在主流cad建模软件 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.xjishu.com%2Fzhuanli%2F55%2F202411354990.html&rut=2f84aec37a8067d4dc15ed1b86016b91cf784b3872c917cd50268720e9bf558a)
+
+## [基于brep的cad模型对比方法、设备和存储介质 - 企查查](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.qcc.com%2FzhuanliDetail%2F0fa82f74f03bb6f80d95d23bf9708c89.html&rut=08131974b89394b387663f735a85cdddf7dc5e286621c4d257b7514ec704eb53)
+
+[![Image 3](https://external-content.duckduckgo.com/ip3/www.qcc.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.qcc.com%2FzhuanliDetail%2F0fa82f74f03bb6f80d95d23bf9708c89.html&rut=08131974b89394b387663f735a85cdddf7dc5e286621c4d257b7514ec704eb53)[www.qcc.com/zhuanliDetail/0fa82f74f03bb6f80d95d23bf9708c89.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.qcc.com%2FzhuanliDetail%2F0fa82f74f03bb6f80d95d23bf9708c89.html&rut=08131974b89394b387663f735a85cdddf7dc5e286621c4d257b7514ec704eb53)
+
+[2.如权利要求1所述基于BREP的CAD模型对比方法，其特征在于，所述比较所述两个目标CAD模型的边界表示BREP数据，包括：获取所述两个目标CAD模型的零件类型；根据所述两个目标CAD模型的零件类型，采用与所述两个目标CAD模型的零件类型相应的算法比较所述两个目标CAD模型的边界表示BREP数据。](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.qcc.com%2FzhuanliDetail%2F0fa82f74f03bb6f80d95d23bf9708c89.html&rut=08131974b89394b387663f735a85cdddf7dc5e286621c4d257b7514ec704eb53)
+
+## [泊松软件取得基于BREP的CAD模型对比方法、设备和存储介质专利|cad|深圳泊松软件技术有限公司_网易订阅](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FKF9T6O7J0519QIKK.html&rut=546a55f2dd5b591570adb81071bef6ad52ce970ecb262006a19c091ee264c2e9)
+
+[![Image 4](https://external-content.duckduckgo.com/ip3/www.163.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FKF9T6O7J0519QIKK.html&rut=546a55f2dd5b591570adb81071bef6ad52ce970ecb262006a19c091ee264c2e9)[www.163.com/dy/article/KF9T6O7J0519QIKK.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FKF9T6O7J0519QIKK.html&rut=546a55f2dd5b591570adb81071bef6ad52ce970ecb262006a19c091ee264c2e9) 2025-11-26T00:00:00.0000000
+
+[国家知识产权局信息显示，深圳泊松软件技术有限公司取得一项名为"基于BREP的CAD模型对比方法、设备和存储介质"的专利，授权公告号CN 119312543 B，申请日期为2024年9月。 天眼查资料显示，深圳泊松软件技术有限公司，成立于2022年，位于深圳市，是一家以从事软件和信息技术服务业为主的企业 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FKF9T6O7J0519QIKK.html&rut=546a55f2dd5b591570adb81071bef6ad52ce970ecb262006a19c091ee264c2e9)
+
+## [基于brep的cad模型对比方法,设备和存储介质 - 百度学术](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1a5p0mt0gf290cu0655s06c056662103&rut=484db435bd8e6ffef750ed704898f9278908fa3c8d5412a2c8f1e092fa908991)
+
+[![Image 5](https://external-content.duckduckgo.com/ip3/xueshu.baidu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1a5p0mt0gf290cu0655s06c056662103&rut=484db435bd8e6ffef750ed704898f9278908fa3c8d5412a2c8f1e092fa908991)[xueshu.baidu.com/usercenter/paper/show?paperid=1a5p0mt0gf290cu0655s06c056662103](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1a5p0mt0gf290cu0655s06c056662103&rut=484db435bd8e6ffef750ed704898f9278908fa3c8d5412a2c8f1e092fa908991)
+
+[关于我们 百度学术集成海量学术资源，融合人工智能、深度学习、大数据分析等技术，为科研工作者提供全面快捷的学术服务。 在这里我们保持学习的态度，不忘初心，砥砺前行。 了解更多>> 友情链接 联系我们 合作与服务 期刊合作 图书馆合作 下载产品手册 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fxueshu.baidu.com%2Fusercenter%2Fpaper%2Fshow%3Fpaperid%3D1a5p0mt0gf290cu0655s06c056662103&rut=484db435bd8e6ffef750ed704898f9278908fa3c8d5412a2c8f1e092fa908991)
+
+## [深圳泊松申请基于BREP的CAD模型对比专利，能够客观对CAD模型精确对比|cad|深圳市|大模型|brep_网易订阅](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FJM6I087N0519QIKK.html&rut=aba5711df4b13e547f11aea0622b60877d890b89db0c305a92daec6cdccfac02)
+
+[![Image 6](https://external-content.duckduckgo.com/ip3/www.163.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FJM6I087N0519QIKK.html&rut=aba5711df4b13e547f11aea0622b60877d890b89db0c305a92daec6cdccfac02)[www.163.com/dy/article/JM6I087N0519QIKK.html](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FJM6I087N0519QIKK.html&rut=aba5711df4b13e547f11aea0622b60877d890b89db0c305a92daec6cdccfac02)
+
+[金融界2025年1月18日消息，国家知识产权局信息显示，深圳泊松软件技术有限公司申请一项名为"基于BREP的CAD模型对比方法、设备和存储介质"的专利，公开号CN 119312543 A，申请日期为2024年9月。 专利摘要显示，本申请涉及计算机辅助工程技术领域，提供了基于**BREP的CAD**模型对比方法，该方法包括：将 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.163.com%2Fdy%2Farticle%2FJM6I087N0519QIKK.html&rut=aba5711df4b13e547f11aea0622b60877d890b89db0c305a92daec6cdccfac02)
+
+## [深圳泊松申请新专利：颠覆cad模型对比的未来! - 搜狐](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sohu.com%2Fa%2F850545190_122004016&rut=362178f2f6ea6e887f7b8ed73eb867ce34cf63b1d5fb000c9106c22f9b239ff8)
+
+[![Image 7](https://external-content.duckduckgo.com/ip3/www.sohu.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sohu.com%2Fa%2F850545190_122004016&rut=362178f2f6ea6e887f7b8ed73eb867ce34cf63b1d5fb000c9106c22f9b239ff8)[www.sohu.com/a/850545190_122004016](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sohu.com%2Fa%2F850545190_122004016&rut=362178f2f6ea6e887f7b8ed73eb867ce34cf63b1d5fb000c9106c22f9b239ff8) 2025-01-18T00:00:00.0000000
+
+[金融界2025年1月18日报道，深圳泊松软件技术有限公司近日向国家知识产权局申请了一项名为"基于BREP的CAD模型对比方法、设备和存储介质"的专利，公开号为CN119312543A，申请日期为2024年9月。这一技术的亮点在于，它将为我们提供更精准、客观的CAD模型对比工具，值得业界关注。 根据专利摘要，这 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.sohu.com%2Fa%2F850545190_122004016&rut=362178f2f6ea6e887f7b8ed73eb867ce34cf63b1d5fb000c9106c22f9b239ff8)
+
+## [BRepCLIP：用于 CAD 理解的 BRep 基元对比多模态预训练](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhuggingface.ac.cn%2Fpapers%2F2606.05515&rut=0b6cb535e5928ebe7be28fa2aef1525ce3b2aa3552a9278b9bb7a4011288b758)
+
+[![Image 8](https://external-content.duckduckgo.com/ip3/huggingface.ac.cn.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhuggingface.ac.cn%2Fpapers%2F2606.05515&rut=0b6cb535e5928ebe7be28fa2aef1525ce3b2aa3552a9278b9bb7a4011288b758)[huggingface.ac.cn/papers/2606.05515](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhuggingface.ac.cn%2Fpapers%2F2606.05515&rut=0b6cb535e5928ebe7be28fa2aef1525ce3b2aa3552a9278b9bb7a4011288b758) 2026-06-06T00:00:00.0000000
+
+[BRepCLIP 通过对比预训练将边界表示（**B-rep**）几何结构与语言和图像嵌入进行对齐，实现了 **CAD** 模型的多模态表示学习。与基于点的方法相比，它取得了更优越的检索和分类性能。](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fhuggingface.ac.cn%2Fpapers%2F2606.05515&rut=0b6cb535e5928ebe7be28fa2aef1525ce3b2aa3552a9278b9bb7a4011288b758)
+
+## [JP2009528604A5 - - Google Patents](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FJP2009528604A5%2Feng&rut=feb160badc1614f7c5eb3a548827abf7c7b8781a77a167a356f73ab70631ff0b)
+
+[![Image 9](https://external-content.duckduckgo.com/ip3/patents.google.com.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FJP2009528604A5%2Feng&rut=feb160badc1614f7c5eb3a548827abf7c7b8781a77a167a356f73ab70631ff0b)[patents.google.com/patent/JP2009528604A5/eng](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FJP2009528604A5%2Feng&rut=feb160badc1614f7c5eb3a548827abf7c7b8781a77a167a356f73ab70631ff0b)
+
+[Links Espacenet Global Dossier Discuss 238000013507mappingMethods0.000claimsdescription41 238000000034methodMethods0.000claimsdescription35 238000004590computer ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fpatents.google.com%2Fpatent%2FJP2009528604A5%2Feng&rut=feb160badc1614f7c5eb3a548827abf7c7b8781a77a167a356f73ab70631ff0b)
+
+## [Ai大模型要理解cad 3d模型，必须从brep开始-csdn博客](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fblog.csdn.net%2FLiveALearn%2Farticle%2Fdetails%2F155012045&rut=2e4f961600810384a9fc7a1679f8de78964b230034fa988215b0cd19b4f417f3)
+
+[![Image 10](https://external-content.duckduckgo.com/ip3/blog.csdn.net.ico)](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fblog.csdn.net%2FLiveALearn%2Farticle%2Fdetails%2F155012045&rut=2e4f961600810384a9fc7a1679f8de78964b230034fa988215b0cd19b4f417f3)[blog.csdn.net/LiveALearn/article/details/155012045](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fblog.csdn.net%2FLiveALearn%2Farticle%2Fdetails%2F155012045&rut=2e4f961600810384a9fc7a1679f8de78964b230034fa988215b0cd19b4f417f3) 2025-11-19T00:00:00.0000000
+
+[图像的像素矩阵； 几何的 NURBS 曲线曲面。 是 CAD 模型的最底层构建基础。 BREP 用一组精确的数学曲面来描述实体的外表面，并用拓扑结构（面-边-顶点关系）描述它们的连接方式。 换句话说： 实体的体积不用存，存它的"外壳"和数学定义就够了。 1. BREP 的 ...](https://duckduckgo.com/l/?uddg=https%3A%2F%2Fblog.csdn.net%2FLiveALearn%2Farticle%2Fdetails%2F155012045&rut=2e4f961600810384a9fc7a1679f8de78964b230034fa988215b0cd19b4f417f3)
+
+[Feedback](https://duckduckgo.com/feedback.html)
+
+![Image 11](https://duckduckgo.com/t/sl_h)
