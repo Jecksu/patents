@@ -808,6 +808,6 @@ git diff -- scripts/ > tmp/backup-before-consolidated-landing/scripts-after.diff
 
 **步骤 2（用户改动未被丢弃）：** 已生成 `tmp/backup-before-consolidated-landing/scripts-after.diff`（288 行，原用户未提交 diff 为 154 行），是在用户改动基础上继续演进的结果。逐项核对用户新增机制全部存在：`"extra_figure": "metrics_diff"` 键、`figure_titles` 第 4 项“图4 关系闭包与差异分类两支汇合流程图”、`make_metrics_diff_flow()` 函数、`build_material()` 中的 `if material.get("extra_figure") == "metrics_diff":` 分支、`TEMPLATE_DIR = OUT_DIR / "_模板"` 与 `TEMPLATE = TEMPLATE_DIR / "专利技术交底书-结构模板.docx"` 仓库内相对路径；原企业微信缓存绝对路径（`WXWorkLocalPro`）已不存在于脚本中。被替换的只是标签文本、坐标与被禁内容。全程未对两份脚本执行 `git checkout --`、`git restore` 或 `git stash`。
 
-**步骤 3（提交范围）：** 用户已明确要求“做完之后推送”，故按本步骤的条件分支执行提交与推送，仅纳入本分支归属的永久命名落稿材料，并排除 `.planning/`、`tmp/`（含备份目录与 PDF 复核暂存）、跨内核轻量摘要计划与设计稿（归属 `codex/lightweight-summary-strengthening` 分支）。两份 DOCX 产物属于已跟踪文件（非“未跟踪 DOCX 产物”），随本轮重建结果一并提交。
+**步骤 3（提交范围与推送）：** 用户已明确要求“做完之后推送”，故按本步骤的条件分支执行提交与推送，仅纳入本分支归属的永久命名落稿材料，并排除 `.planning/`、`tmp/`（含备份目录与 PDF 复核暂存）、跨内核轻量摘要计划与设计稿（归属 `codex/lightweight-summary-strengthening` 分支）。两份 DOCX 产物属于已跟踪文件（非“未跟踪 DOCX 产物”），随本轮重建结果一并提交。提交为 `a0dabb8`，62 个文件、761 增 277 删。推送时 `origin` 的 `git@github.com:22` 被网络拦截（`Connection closed by 198.18.0.129 port 22`），HTTPS 无已存凭据且不可交互提示；改用 `ssh://git@ssh.github.com:443` 以同一密钥推送成功（`025d25c..a0dabb8`），`git ls-remote` 复核远端分支指向 `a0dabb8a1`，与本地 HEAD 一致。未修改 `origin` 的既有 URL 配置。
 
 **步骤 4（交付说明）：** 已在对话中如实列出四份产物的变更要点、第 16 节 14 项与第 17 节 13 项逐项结论、逐页复核发现与处置，以及仍需专利代理人完成的事项；未表述为已获得授权保证或已完成穷尽检索。
