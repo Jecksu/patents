@@ -65,40 +65,37 @@ MATERIALS = [
         "title": "一种基于CAD永久命名的模型差异对比方法及系统",
         "output": OUT_DIR / "永久命名-CAD模型差异对比-发明专利申请文件.docx",
         "abstract_figure": [
-            "获取第一/第二CAD模型",
-            "读取已存在命名索引",
-            "判断命名域/映射",
-            "执行命名集合运算",
-            "命名一致性审计",
-            "异常闭环/指纹筛选",
-            "局部验证与依赖传播",
-            "输出语义差异结果",
+            "读取既有命名索引与关联关系",
+            "计算质量状态并三态门控",
+            "种子关系验证与三类假设",
+            "联合互斥选择与未决冻结",
+            "双侧分区检查与失败回流",
+            "闭包通过后差异分类",
+            "输出类型化事件与证据",
         ],
         "system_modules": [
-            "模型获取模块",
-            "永久命名实体索引模块",
-            "命名域判断模块",
-            "命名集合比较模块",
-            "命名一致性审计模块",
-            "指纹比较模块",
-            "命名异常闭环处理模块",
-            "局部验证模块",
-            "语义差异聚合模块",
-            "永久命名映射模块",
-            "差异输出模块",
+            "既有命名关系读取模块",
+            "质量状态与门控模块",
+            "种子验证与假设生成模块",
+            "联合选择与冻结模块",
+            "分区检查与失败回流模块",
+            "闭包后差异分类模块",
+            "类型化事件输出模块",
         ],
         "decision_flow": [
-            "读取已有永久命名",
-            "同一命名域",
-            "已有跨系统映射",
-            "命名异常",
-            "集合比较",
-            "异常闭环重分类",
+            "读取既有命名关系",
+            "元数据门控失败停用直配",
+            "全局未通过仅逐键可信",
+            "全局通过进入种子路径",
+            "逐键四状态门控",
+            "异常端点转候选假设",
         ],
+        "extra_figure": "metrics_diff",
         "figure_titles": [
             "图1 基于永久命名的CAD模型差异对比方法流程图",
             "图2 基于永久命名的CAD模型差异对比系统结构图",
-            "图3 命名映射与命名异常处理流程图",
+            "图3 命名域元数据硬门控与三态路由流程图",
+            "图4 关系闭包与差异分类两支汇合流程图",
         ],
     },
 ]
@@ -236,6 +233,75 @@ def make_decision_flow(path: Path, title: str, labels: list[str]) -> None:
     for name in ["left", "mid"]:
         arrow(draw, ((boxes[name][0] + boxes[name][2]) // 2, boxes[name][3]), ((boxes["bottom_left"][0] + boxes["bottom_left"][2]) // 2, boxes["bottom_left"][1]))
     arrow(draw, ((boxes["right"][0] + boxes["right"][2]) // 2, boxes["right"][3]), ((boxes["bottom_right"][0] + boxes["bottom_right"][2]) // 2, boxes["bottom_right"][1]))
+    img.save(path)
+
+
+def make_metrics_diff_flow(path: Path, title: str) -> None:
+    """Render the two-branch relation-closure and difference-classification flow."""
+    w, h = 1900, 2320
+    img = Image.new("RGB", (w, h), "white")
+    draw = ImageDraw.Draw(img)
+    title_font = get_font(42, bold=True)
+    box_font = get_font(27)
+    small_font = get_font(23)
+    draw_centered_text(draw, (70, 30, w - 70, 110), title, title_font)
+
+    left_x, right_x = 90, 1030
+    branch_w, box_h = 760, 150
+    branch_y = [170, 350, 530, 710, 890]
+    trunk_x, trunk_w = 90, 1700
+    trunk_y = [1130, 1310, 1490, 1670, 1850, 2030]
+    left_labels = [
+        "既有永久命名索引与实体—比较规范键多重关系",
+        "硬约束／软证据／允许变化属性分离与质量状态",
+        "元数据硬门控与全局三态路由、逐键四状态",
+        "临时种子关系 R_seed",
+        "身份／指纹局部验证",
+    ]
+    right_labels = [
+        "稀疏异常候选边生成与双向索引查询预算",
+        "一对一／一对多／多对一三类关系假设",
+        "组聚合不变量与局部 B-rep 证据",
+        "候选权重与归一化目标 Phi_G",
+        "绝对裕量 delta_margin 判定",
+    ]
+    trunk_labels = [
+        "同一局部分量联合端点互斥选择得 R_11／R_1m／R_m1",
+        "冻结最小不动点 FROZEN_A／FROZEN_B",
+        "end_A／end_B 双侧完备不交分区检查",
+        "失败回流：撤销、局部扩读、重建假设、重新选择",
+        "CLOSURE_PASS 与 closure_snapshot_id",
+        "闭包后分类并物化 CAD_DIFF_EVENT_V1",
+    ]
+
+    def draw_column(
+        x: int,
+        labels: list[str],
+        y_values: list[int],
+        box_w: int,
+        wrap: int,
+    ) -> list[tuple[int, int, int, int]]:
+        boxes = []
+        for y, label in zip(y_values, labels):
+            box = (x, y, x + box_w, y + box_h)
+            boxes.append(box)
+            draw.rounded_rectangle(box, radius=8, outline="black", width=3, fill="white")
+            draw_centered_text(draw, box, wrap_label(label, wrap), box_font)
+        for a, b in zip(boxes, boxes[1:]):
+            arrow(draw, ((a[0] + a[2]) // 2, a[3]), ((b[0] + b[2]) // 2, b[1]))
+        return boxes
+
+    left_boxes = draw_column(left_x, left_labels, branch_y, branch_w, 18)
+    right_boxes = draw_column(right_x, right_labels, branch_y, branch_w, 18)
+    trunk_boxes = draw_column(trunk_x, trunk_labels, trunk_y, trunk_w, 40)
+
+    merge_top = trunk_boxes[0][1]
+    left_join = (trunk_x + trunk_w // 3, merge_top)
+    right_join = (trunk_x + 2 * trunk_w // 3, merge_top)
+    arrow(draw, ((left_boxes[-1][0] + left_boxes[-1][2]) // 2, left_boxes[-1][3]), left_join)
+    arrow(draw, ((right_boxes[-1][0] + right_boxes[-1][2]) // 2, right_boxes[-1][3]), right_join)
+    draw.text((250, 1070), "门控与种子证据", fill="black", font=small_font)
+    draw.text((1450, 1070), "候选与裕量证据", fill="black", font=small_font)
     img.save(path)
 
 
@@ -411,6 +477,10 @@ def build_material(material: dict) -> None:
     make_vertical_flow(fig1, material["figure_titles"][0], material["abstract_figure"])
     make_module_grid(fig2, material["figure_titles"][1], material["system_modules"])
     make_decision_flow(fig3, material["figure_titles"][2], material["decision_flow"])
+    extra_fig = None
+    if material.get("extra_figure") == "metrics_diff":
+        extra_fig = ASSET_DIR / f"{material['key']}-fig4-metrics-diff.png"
+        make_metrics_diff_flow(extra_fig, material["figure_titles"][3])
 
     doc = Document()
     configure_doc(doc, material["title"])
@@ -434,7 +504,8 @@ def build_material(material: dict) -> None:
     doc.add_page_break()
 
     doc.add_heading("五、说明书附图", level=1)
-    for fig, caption in zip([fig1, fig2, fig3], material["figure_titles"]):
+    figures = [fig1, fig2, fig3] + ([extra_fig] if extra_fig else [])
+    for fig, caption in zip(figures, material["figure_titles"]):
         add_figure(doc, fig, caption)
 
     material["output"].parent.mkdir(parents=True, exist_ok=True)
