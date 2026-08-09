@@ -20,6 +20,11 @@ PATENT_DIR = ROOT / "docs" / "patent"
 OUT_DIR = ROOT / "docs" / "submission"
 ASSET_DIR = OUT_DIR / "assets"
 
+# 申请首页信息。代理机构与申请日期留空由代理人填写。
+APPLICANT = "苏潇迪-云平台体验研发部"
+INVENTOR = "苏潇迪"
+INVENTOR_PHONE = "15077207427"
+
 
 MATERIALS = [
     {
@@ -406,12 +411,20 @@ def add_title_page(doc: Document, title: str) -> None:
     r = p.add_run(title)
     set_run_font(r, size=18, bold=True)
 
-    for label in ["申请人", "发明人", "代理机构", "申请日期"]:
+    cover_fields = [
+        ("申请人", APPLICANT),
+        ("发明人", INVENTOR),
+        ("联系电话", INVENTOR_PHONE),
+        ("代理机构", None),
+        ("申请日期", None),
+    ]
+    for label, value in cover_fields:
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.LEFT
         p.paragraph_format.left_indent = Cm(3)
         p.paragraph_format.space_after = Pt(12)
-        r = p.add_run(f"{label}：____________________________")
+        filler = value if value else "____________________________"
+        r = p.add_run(f"{label}：{filler}")
         set_run_font(r, size=12)
 
     doc.add_page_break()

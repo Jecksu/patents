@@ -16,6 +16,13 @@ ASSET_DIR = ROOT / "docs" / "submission" / "assets"
 TEMPLATE_DIR = OUT_DIR / "_模板"
 TEMPLATE = TEMPLATE_DIR / "专利技术交底书-结构模板.docx"
 
+# 发明人与申请人信息。改这里即可同步到两份交底书的表头与发明人表。
+INVENTOR_NAME = "苏潇迪"
+INVENTOR_PHONE = "15077207427"
+APPLICANT_DEPT = "苏潇迪-云平台体验研发部"
+# 发明人表：(姓名, 专利贡献比例%)，按第一发明人起顺序排列
+INVENTORS = [(INVENTOR_NAME, "100")]
+
 
 def set_paragraph_text(paragraph, text: str, bold: bool = False, size: int | None = None) -> None:
     paragraph.clear()
@@ -83,9 +90,9 @@ def fill_metadata(doc: Document, title: str) -> None:
     replacements = {
         2: f"专利申请名称：{title}",
         3: "此专利是否已经公开：否",
-        4: "申请人及部门：待补充",
-        5: "发明人或撰写人：待补充",
-        6: "发明人或撰写人的电话：待补充",
+        4: f"申请人及部门：{APPLICANT_DEPT}",
+        5: f"发明人或撰写人：{INVENTOR_NAME}",
+        6: f"发明人或撰写人的电话：{INVENTOR_PHONE}",
         7: "类型：发明专利",
         8: "内部编号：待补充",
     }
@@ -93,12 +100,21 @@ def fill_metadata(doc: Document, title: str) -> None:
         if idx < len(doc.paragraphs):
             set_paragraph_text(doc.paragraphs[idx], text, size=10.5)
 
+    # 发明人表：第1行为姓名，第2行为专利贡献比例(%)；第0列为行标题，数据从第1列起。
     if doc.tables:
         table = doc.tables[0]
         if len(table.rows) >= 3:
-            for row_idx in [1, 2]:
-                for col_idx in range(1, len(table.rows[row_idx].cells)):
-                    table.rows[row_idx].cells[col_idx].text = "待补充"
+            name_cells = table.rows[1].cells
+            share_cells = table.rows[2].cells
+            for col_idx in range(1, len(name_cells)):
+                slot = col_idx - 1
+                if slot < len(INVENTORS):
+                    name, share = INVENTORS[slot]
+                else:
+                    name, share = "待补充", "待补充"
+                name_cells[col_idx].text = name
+                if col_idx < len(share_cells):
+                    share_cells[col_idx].text = share
 
 
 LIGHTWEIGHT = {
