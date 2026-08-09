@@ -12,6 +12,8 @@ from docx.oxml.ns import qn
 from docx.shared import Cm, Inches, Pt, RGBColor
 from PIL import Image, ImageDraw, ImageFont
 
+from mathtext import add_math_runs
+
 
 ROOT = Path(__file__).resolve().parents[1]
 PATENT_DIR = ROOT / "docs" / "patent"
@@ -262,8 +264,8 @@ def make_metrics_diff_flow(path: Path, title: str) -> None:
         "稀疏异常候选边生成与双向索引查询预算",
         "一对一／一对多／多对一三类关系假设",
         "组聚合不变量与局部 B-rep 证据",
-        "候选权重与归一化目标 Phi_G",
-        "绝对裕量 delta_margin 判定",
+        "候选权重与归一化目标 Φ_G",
+        "绝对裕量 δ_margin 判定",
     ]
     trunk_labels = [
         "同一局部分量联合端点互斥选择得 R_11／R_1m／R_m1",
@@ -440,8 +442,7 @@ def add_md_content(doc: Document, md: str, top_level: int = 1) -> None:
         else:
             p = doc.add_paragraph()
             text = clean_md_line(line)
-            run = p.add_run(text)
-            set_run_font(run, size=11)
+            add_math_runs(p, text, lambda run: set_run_font(run, size=11))
             set_paragraph_spacing(p, after=6)
             if re.match(r"^\s+\S", raw_line):
                 p.paragraph_format.left_indent = Cm(0.74)
